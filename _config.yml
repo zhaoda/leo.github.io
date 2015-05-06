@@ -1,0 +1,24 @@
+# General
+title: Leonard Lamprecht
+email: leo@users.noreply.github.com
+description: "A one-man-show about great software, hosted by a 17-year-old developer."
+url: "https://leo.github.io"
+
+# Social
+twitter: lmprht
+github: leo
+
+# Build
+markdown: kramdown
+kramdown:
+    input: GFM
+sass:
+    style: :compressed
+
+#Other
+permalink: /blog/:title
+timezone: DE
+exclude: [ 'LICENSE', 'README.md', 'CNAME' ]
+gems:
+    - jekyll-sitemap
+    - jemoji
