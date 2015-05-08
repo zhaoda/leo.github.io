@@ -2,7 +2,7 @@
 layout:         post
 title:          "Something new"
 date:           2015-02-04 10:37:32
-categories:     update
+categories:     general
 ---
 
 Finally! It's been a while since I've blogged properly the last time, probably a few years. Why? Well, during this time many things changed for me: After I "left" [Cutting Egg][1] a year ago, I started working in a  advertising agency called [medienreaktor][2] in addition to school (where I'll also graduate in a few months). I'm glad to finally get a solid reward for making great websites and -apps. Of course, the local cooperation with other people interested in my field also helps me to expand my knowledge.
