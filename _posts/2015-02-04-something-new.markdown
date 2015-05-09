@@ -15,4 +15,4 @@ So if you want to join me on my journey through the world, you're free to hit th
 
 [1]: https://cuttingegg.de
 [2]: http://medienreaktor.de
-[3]: {{ "/feed.xml" | prepend: site.baseurl }}
+[3]: {{ "/feed.xml" | prepend: site.url }}
