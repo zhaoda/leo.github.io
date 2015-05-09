@@ -19,6 +19,7 @@ sass:
 #Other
 permalink: /blog/:title
 timezone: DE
+include: [ 'robots.txt' ]
 exclude: [ 'LICENSE', 'README.md', 'CNAME' ]
 gems:
     - jekyll-sitemap
