@@ -9,8 +9,10 @@
     {% if site.google_verify %}
     <meta name="google-site-verification" content="{{ site.google_verify }}">
     {% endif %}
+    
+    <link rel="icon apple-touch-icon" href="/assets/touch-icon.png">
 
-    <link rel="stylesheet" href="/css/main.css">
+    <link rel="stylesheet" href="/assets/main.css">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.url }}" />
 </head>
