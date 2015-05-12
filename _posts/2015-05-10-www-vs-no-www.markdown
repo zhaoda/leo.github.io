@@ -13,7 +13,7 @@ One, which is constantly jeering and wanting to completely remove the three lett
 
 ## Who should use www
 
-Many system administrators will advise you to don't support the deprecation of the "www" prefix. The reason behind that is, that it will allow your host to forward visitors to another server if the current one is on fire. To do that, they need to be able to update the DNS records of your domain (which is done using CNAME entries). Unfortunately, using this procedure is not possible without the *www*.
+Many system administrators will advise you to not support the deprecation of the "www" prefix. The reason behind that is, that it will allow your host to forward visitors to another server if the current one is on fire. To do that, they need to be able to update the DNS records of your domain (which is done using CNAME entries). Unfortunately, using this procedure is not possible without the *www*.
 
 But don't worry, if your site doesn't get tons of traffic each day, this isn't something you need to worry about. Mostly people who are using cloud application providers like [Heroku][1] are affected by this.
 
