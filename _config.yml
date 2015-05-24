@@ -12,9 +12,9 @@ github: leo
 # Build
 markdown: kramdown
 kramdown:
-    input: GFM
+	input: GFM
 sass:
-    style: :compressed
+	style: :compressed
 
 #Other
 permalink: /blog/:title
@@ -22,5 +22,5 @@ timezone: DE
 include: [ 'robots.txt' ]
 exclude: [ 'LICENSE', 'README.md', 'CNAME' ]
 gems:
-    - jekyll-sitemap
-    - jemoji
+	- jekyll-sitemap
+	- jemoji
