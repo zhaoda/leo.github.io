@@ -1,6 +1,6 @@
 ---
 layout:         post
-title:          "Something new"
+title:          "Something New"
 date:           2015-02-04 10:37:32
 categories:     general
 ---

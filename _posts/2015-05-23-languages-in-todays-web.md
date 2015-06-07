@@ -1,6 +1,6 @@
 ---
 layout:         post
-title:          "The role of languages in today's web"
+title:          "The Role of Languages in Today's Web"
 date:           2015-05-23 20:11:00
 categories:     general
 ---

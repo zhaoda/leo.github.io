@@ -1,6 +1,6 @@
 ---
 layout:         post
-title:          "No more CSS grid frameworks"
+title:          "No More CSS Grid Frameworks"
 date:           2015-05-26 20:53:00
 categories:     general
 ---

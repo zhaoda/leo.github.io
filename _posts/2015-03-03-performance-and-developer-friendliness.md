@@ -1,6 +1,6 @@
 ---
 layout:         post
-title:          "Between performance and developer-friendliness"
+title:          "Between Performance and Developer-friendliness"
 date:           2015-03-03 10:04:40
 categories:     code
 ---
