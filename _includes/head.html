@@ -27,9 +27,7 @@
 	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
 	<link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.url }}" />
 
-	<!-- {{ jekyll.environment }} -->
-
-	{% if jekyll.environment != 'development' %}
+	{% if jekyll.environment == 'production' %}
 
 	<script>
 		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
