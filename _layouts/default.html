@@ -14,15 +14,15 @@
 		</div>
 
 		{% include footer.html %}
-		
+
 		{% if page.path contains '_posts' %}
-		
+
 		<script>
 			var disqus_url = '{{ page.url | prepend: site.url }}';
 		</script>
 
 		<script type="text/javascript" src="//leo-writes.disqus.com/embed.js" async></script>
-			
+
 		{% endif %}
 
 	</body>
