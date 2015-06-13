@@ -23,6 +23,10 @@
 
 		<script type="text/javascript" src="//leo-writes.disqus.com/embed.js" async></script>
 
+			{% if content contains 'See the Pen' %}
+			<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
+			{% endif %}
+
 		{% endif %}
 
 	</body>

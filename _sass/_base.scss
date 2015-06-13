@@ -22,9 +22,24 @@ ul, ol, dl, figure,
 	margin-bottom: $spacing-unit / 2;
 }
 
-img {
+img, iframe {
 	max-width: 100%;
+}
+
+img {
 	vertical-align: middle;
+}
+
+iframe {
+	width: 100%;
+}
+
+article {
+	
+	iframe {
+		margin: 45px 0;
+	}
+	
 }
 
 figure > img {
