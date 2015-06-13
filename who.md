@@ -14,7 +14,7 @@ As soon as the new layout is online, I'll use this site to publish many of my id
 
 #### Who?
 
-I'm a 17-year-old student (just a few months left) who has been building awesome stuff since he first got in contact with the art of creating websites in 2010.
+I'm a 17-year-old student (just a few weeks left) who has been building awesome stuff since he first got in contact with the art of creating websites in 2010.
 
 Right now, I'm working incidentally at a local agency called [medienreaktor][3] where I'm responsible for developing websites (and soon also apps).
 
