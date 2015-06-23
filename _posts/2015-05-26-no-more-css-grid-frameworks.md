@@ -7,7 +7,7 @@ categories:     general
 
 A few minutes ago, I read a [post][1] on Designer News that was created by a guy that wanted to create another flexbox-based grid framework for CSS. He probably knew that there are already many of them out there. But that didn't held him back from asking for interest in another one.
 
-The reason behind that is for sure that he just likes coding and also sees a thin gap for really great grid frameworks. Because I want people to stay motivated on their idea (no matter how many other guys already made it happen), I generally think it's not a bad idea to create another one. **BUT** only if he's doing it for the purpose of learning and not for other people. :wink:
+The reason behind that is for sure that he just likes coding and also sees a thin gap for really great grid frameworks. Because I want people to stay motivated on their idea (no matter how many other guys already made it happen), I generally think it's not a bad idea to create another one. **BUT** only if he's doing it for the purpose of learning and not for other people. 😉
   
 **Why?** Because the need for those kinds of frameworks will soon be gone forever. — Okay, that might be a bit confusing for you know, so let's start with a quick explanation:
 
@@ -40,7 +40,7 @@ Okay, let's sum up for which each property should be used:
 - **grid:** — Layout
 - **flex:** — Content
 
-I think that's pretty easy to understand, isn't it? :smile_cat:
+I think that's pretty easy to understand, isn't it? 😸
 
 So what are you waiting for? Open Chrome, enable that experimental flag and try the shit out of `grid`! If you get stuck or simply want to know more about how the property exactly works and how it should be used, take a look at the [W3C documentation][2].
 

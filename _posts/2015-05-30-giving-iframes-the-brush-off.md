@@ -45,5 +45,5 @@ As many CSS properties I like to talk of, this one is very new[^2]. Nevertheless
 [2]: https://developer.mozilla.org/en-US/docs/Web/CSS/all
 [3]: http://caniuse.com/#search=all
 
-[^1]: It's written in ES6 and will be published soon, so stay up-to-date! :yum:
+[^1]: It's written in ES6 and will be published soon, so stay up-to-date! 😉
 [^2]: No, seriously. It's not even on [Can I Use][3].

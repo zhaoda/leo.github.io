@@ -13,4 +13,4 @@ First, let's quickly get to know what Yoga even is. According to Wikipedia, it's
 
 I think they’re trying to get away from things they don’t like. Instead of facing the truth and doing something to improve the situation and stepping forward, they just want to fade it out. And that is - in my opinion - not useful when developing a great life. They’re imagining that they’re just ameliorating their health and mind - but what’s really happening is that they’re escaping from the bad side of their life.
 
-That was a bit confusing, huh? I hope you understand, what I want to communicate you: Just put all your effort into creating the life you want and don’t flee from those decisions (of course just a suggestion, I don't want to be a preacher :stuck_out_tongue_winking_eye:).
+That was a bit confusing, huh? I hope you understand, what I want to communicate you: Just put all your effort into creating the life you want and don’t flee from those decisions (of course just a suggestion, I don't want to be a preacher 😬).

@@ -23,4 +23,4 @@ Of course, it's easier to just write everything in one language: Everyone could 
 
 So don't support this thinking. You don't need to translate everything into your mother tongue now, but if you have enough time, contribute something to human existance and also provide another translation in your native language.
 
-Thank you for giving a fuck! :kissing_heart:
+Thank you for giving a fuck! 😘

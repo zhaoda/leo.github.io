@@ -6,7 +6,7 @@ permalink: /what/
 
 #### What?
 
-**First off:** No, this is not my new homepage. It's only a basic set-up which I wanted to finally put out there so I can write more posts while finishing the design. :smile:
+**First off:** No, this is not my new homepage. It's only a basic set-up which I wanted to finally put out there so I can write more posts while finishing the design. 😄
 
 On this domain, you'll soon see my next real personal website (finally, since a few years). Well, I discarded many layouts and blogging platforms, but I think I finally found the right one: A static site, powered by [Jekyll][1] and hosted on [GitHub][2].
 

@@ -25,4 +25,3 @@ include: [ 'robots.txt' ]
 exclude: [ 'LICENSE', 'README.md', 'CNAME' ]
 gems:
     - jekyll-sitemap
-    - jemoji

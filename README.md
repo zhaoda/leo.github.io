@@ -17,6 +17,6 @@ As you might want to commit something to my site, you should of course be able t
 
 ## Forking
 
-You're completely free to fork this repository and use it as starting-point for your own Jekyll-site! Just remember to change all custom variables within ```config.yml``` before continuing to use the setup. :smile_cat:
+You're completely free to fork this repository and use it as starting-point for your own Jekyll-site! Just remember to change all custom variables within ```config.yml``` before continuing to use the setup. 😸
 
 I would also recommend you to make some changes to the theme, of course (if not to completely change it). So that people aren't confused when visiting your site.
