@@ -100,6 +100,19 @@
 	margin-left: 0;
 }
 
+.social-media-list {
+
+	@include media-query( $on-palm ) {
+		margin: 25px 0;
+
+		li {
+			margin: 5px 0;
+		}
+
+	}
+
+}
+
 .footer-col-wrapper {
 	font-size: 15px;
 	color: $grey-color;
