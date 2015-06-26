@@ -25,3 +25,6 @@ include: [ 'robots.txt' ]
 exclude: [ 'LICENSE', 'README.md', 'CNAME', 'vendor', 'Gemfile' ]
 gems:
     - jekyll-sitemap
+compress_html:
+    ingore:
+        envs: [ 'test' ]
