@@ -1,6 +1,6 @@
 ---
 layout:         post
-title:          "Design & Development"
+title:          "Design &amp; Development"
 date:           2015-06-05 17:22:00
 categories:     general
 ---
