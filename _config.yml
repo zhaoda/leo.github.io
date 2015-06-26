@@ -22,6 +22,6 @@ sass:
 permalink: /blog/:title
 timezone: DE
 include: [ 'robots.txt' ]
-exclude: [ 'LICENSE', 'README.md', 'CNAME' ]
+exclude: [ 'LICENSE', 'README.md', 'CNAME', 'vendor', 'Gemfile' ]
 gems:
     - jekyll-sitemap
