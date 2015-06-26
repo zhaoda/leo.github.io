@@ -1,4 +1,4 @@
-## What is this?
+## My site &nbsp; [![Build Status](https://travis-ci.org/leo/leo.github.io.svg?branch=master)][1]
 
 If you want, you can call this my homepage. This is where I put many of my recent thoughts and works. The reason why I published the site here on GitHub is because they provide a really convenient to deploy.
 
@@ -20,3 +20,5 @@ As you might want to commit something to my site, you should of course be able t
 You're completely free to fork this repository and use it as starting-point for your own Jekyll-site! Just remember to change all custom variables within ```config.yml``` before continuing to use the setup. 😸
 
 I would also recommend you to make some changes to the theme, of course (if not to completely change it). So that people aren't confused when visiting your site.
+
+[1]: https://travis-ci.org/leo/leo.github.io
