@@ -1,6 +1,6 @@
 ---
 layout:         post
-title:          "Avoiding a total UX-disaster in product support"
+title:          "Avoiding a total UX-mess in product support"
 date:           2015-06-27 14:22
 categories:     usability
 ---
