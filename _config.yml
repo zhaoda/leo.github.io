@@ -1,6 +1,6 @@
 # General
 title: Leo
-description: "A one-man-show about great software, hosted by a 17-year-old developer."
+description: "A teenagers view on web development and intuitive UI design."
 
 author: Leonard Lamprecht
 email: lamprechtleonard@gmail.com
@@ -25,6 +25,7 @@ include: [ 'robots.txt' ]
 exclude: [ 'LICENSE', 'README.md', 'CNAME', 'vendor', 'Gemfile' ]
 gems:
     - jekyll-sitemap
+    
 compress_html:
     ingore:
         envs: [ 'test' ]
