@@ -1,7 +1,7 @@
 ---
 layout:         post
 title:          "Snippets Are the Future"
-date:           2015-06-07 21:30:00
+date:           2015-06-07 21:30
 categories:     general
 ---
 

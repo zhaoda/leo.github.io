@@ -1,7 +1,7 @@
 ---
 layout:         post
 title:          "Possible Ways to Avoid Floating in CSS"
-date:           2015-06-13 13:39:00
+date:           2015-06-13 13:39
 categories:     general
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout:         post
 title:          "Design &amp; Development"
-date:           2015-06-05 17:22:00
+date:           2015-06-05 17:22
 categories:     general
 ---
 

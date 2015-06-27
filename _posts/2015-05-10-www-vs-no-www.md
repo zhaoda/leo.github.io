@@ -1,7 +1,7 @@
 ---
 layout:         post
 title:          "WWW vs. no-WWW - Fight!"
-date:           2015-05-10 16:24:00
+date:           2015-05-10 16:24
 categories:     general
 ---
 

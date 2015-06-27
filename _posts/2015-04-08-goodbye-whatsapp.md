@@ -1,7 +1,7 @@
 ---
 layout:         post
 title:          "Goodbye, WhatsApp"
-date:           2015-04-08 12:01:52
+date:           2015-04-08 12:01
 categories:     general
 ---
 

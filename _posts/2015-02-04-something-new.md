@@ -1,7 +1,7 @@
 ---
 layout:         post
 title:          "Something New"
-date:           2015-02-04 10:37:32
+date:           2015-02-04 10:37
 categories:     general
 ---
 

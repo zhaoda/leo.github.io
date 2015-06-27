@@ -1,7 +1,7 @@
 ---
 layout:         post
 title:          "Yoga and It’s Cronies"
-date:           2015-05-08 22:13:00
+date:           2015-05-08 22:13
 categories:     general
 ---
 

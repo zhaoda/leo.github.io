@@ -1,7 +1,7 @@
 ---
 layout:         post
 title:          "You Probably Don't Need iframes for External Content"
-date:           2015-05-30 22:51:00
+date:           2015-05-30 22:51
 categories:     general
 ---
 
