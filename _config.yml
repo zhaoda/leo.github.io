@@ -27,5 +27,6 @@ gems:
     - jekyll-sitemap
     
 compress_html:
+    clippings: all
     ingore:
         envs: [ 'test' ]
