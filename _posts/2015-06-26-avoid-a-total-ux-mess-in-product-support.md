@@ -44,7 +44,7 @@ Every single one of your users writes messages to multiple completely different 
 
 **EDIT:** Regarding the "one conversation for each question" [argument][3]: Please also make sure to not force the user to proceed with the dialogue over a completely different medium. The conversation should be started and finished in one stream (or "thread" if that makes more sense to you).
 
-For example, if a user asks reports a bug over Twitter, don't advise him to fill out a freaking bug report. That just makes the user's effort on getting the feedback to you redundant. — If you're out of luck, he might even loose the incentive of writing you once again completely.
+For example, if a user reports a bug over Twitter, don't advise him to fill out a freaking bug report. That just makes the user's effort on getting the feedback to you redundant. — If you're out of luck, he might even loose the incentive of writing you once again completely.
 
 *Thanks to @e2b for letting me know about this.*
 
