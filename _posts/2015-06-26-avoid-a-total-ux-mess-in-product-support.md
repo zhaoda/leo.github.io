@@ -50,9 +50,21 @@ For example, if a user reports a bug over Twitter, don't advise him to fill out 
 
 ---
 
+**EDIT 2:** When allowing users to write their feedback or questions via e-mail, the sender of the response should be set to your company's name (or something similar). I saw a few bad examples like the following one, who basically set it to the real name of the guy who wrote me back:
+
+![e-mail autocomplete](/assets/posts/email-autocomplete.png)
+
+Now every time the user opens the mail app, it auto-completes the content of the "receiver"-field as soon as he starts typing in the company's adress. And no - even if he tries to remove this information, most apps will make sure that it stays.
+
+And technically, this info isn't useful at all. I mean, if you have more than 1 single support staff, the user won't write with *Scott* each time. He might also write with *Ann* or *Jacob*, since they use the exact same address to stay in contact with customers - therefore the name is pretty useless in this context[^3].
+
+---
+
 [^1]: Please don't get me wrong here. Of course they should already do what they can to make the product awesome by themselves.
 
 [^2]: And if you have more than one "Scott" in your company, just add their last name.
+
+[^3]: Yep. I do know that you can turn this off, but many apps have this option enabled by default. And if something is enabled by default, it's very likely to not be disabled yet by the "average user".
 
 [1]: http://codepen.io
 [2]: http://www.guinnessworldrecords.com/60/images/records/1971.jpg "Ray Tomlinson — a.k.a. the guy who wrote the first ever email"
