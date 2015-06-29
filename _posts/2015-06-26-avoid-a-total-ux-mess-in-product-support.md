@@ -40,9 +40,20 @@ As I already said, please don't force the user to write with you over your damn 
 
 Every single one of your users writes messages to multiple completely different services and I don't think he wants to have all those messages scattered around different platforms (at least I personally don't think that's purposeful in any way). Take your time and make sending feedback and support questions more comfortable! You'll quickly see that more users are spending their extremely valuable time to make your product better, because they want to be able to use it without disorders.
 
+---
+
+**EDIT:** Regarding the "one conversation for each question" [argument][3]: Please also make sure to not force the user to proceed with the dialogue over a completely different medium. The conversation should be started and finished in one stream (or "thread" if that makes more sense to you).
+
+For example, if a user asks reports a bug over Twitter, don't advise him to fill out a freaking bug report. That just makes the user's effort on getting the feedback to you redundant. — If you're out of luck, he might even loose the incentive of writing you once again completely.
+
+*Thanks to @e2b for letting me know about this.*
+
+---
+
 [^1]: Please don't get me wrong here. Of course they should already do what they can to make the product awesome by themselves.
 
 [^2]: And if you have more than one "Scott" in your company, just add their last name.
 
 [1]: http://codepen.io
 [2]: http://www.guinnessworldrecords.com/60/images/records/1971.jpg "Ray Tomlinson — a.k.a. the guy who wrote the first ever email"
+[3]: #make-use-of-the-users-existing-tools
