@@ -49,9 +49,9 @@ I also contacted GitHub a while ago and asked them to implement a tiny analytics
 
 Firstly, I usually post my articles on [Hacker News][2], as well as on [Designer News][3] (and if I don't do it, you're of course free to do so). If you don't know them already: They're platforms which you can also use to add your own thoughts on a specific post of mine (e.g. on this one). Of course, you can also just write me on Twitter or via e-mail.
 
-Using this method, I also make sure that people are not confronted with the question if they should post their comment on the platform which led them to the article or on my site. I'm really looking forward to the release of Apple's "News" app, maybe they will already provide a more convenient solution for this. And while we're on it: If you already downloaded the Beta of iOS 9, try searching for "Leo" within the News App 😅 - and let me know if you found me (I'm unfortunately not yet able to register for Apple's new developer program to get the Beta by myself, at least their site tells me this).
+Using this method, I also make sure that people are not confronted with the question if they should post their comment on the platform which led them to the article or on my site. I'm really looking forward to the release of Apple's "News" app, maybe they will already provide a more convenient solution for this. And while we're on it: If you already downloaded the beta of iOS 9, try searching for "Leo" within the News app 😅 - and let me know if you found me (I'm unfortunately not yet able to register for Apple's new developer program to get the beta by myself, at least their site tells me this).
 
-Another great way to make room for your opinion is to quote the article on your own site and then let me know about it over social networks. If I encounter a great comment, I will make sure to publish it here (including my own statement).
+Another great way to make room for your opinion is to simply quote the article on your own site and then let me know about it over social networks. If I encounter a great comment, I will make sure to publish it here (including my own statement).
 
 ---
 
