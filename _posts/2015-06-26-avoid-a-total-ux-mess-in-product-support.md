@@ -29,7 +29,7 @@ I already mentioned the first one in the paragraphs above: e-mail. Why even both
 
 2. **One conversation for each question:** I know this might sound stupid, but there definitely are companies out there which are using some really neat ticketing-systems that are basically opening a new e-mail-conversation for each answer. What the heck? Just use the exact same thread the user wrote from to answer back.
 
-3. **Don't repeat yourself:** I'm talking about information which has already been shown once - don't waste space and use the same text again. A great example for this is the mail I recently automatically received from [CodePen][1] because my test for the premium package has expired: ![CodePen Mail](/assets/posts/codepen-support.png)
+3. **Don't repeat yourself:** I'm talking about information which has already been shown once - don't waste space and use the same text again. A great example for this is the mail I recently automatically received from [CodePen][1] because my test for the premium package has expired: {% include image.liquid file="codepen-support.png" alt="E-mail from CodePen" %}
 Why did they add the "CodePen" lettering to the subject line? It's already the content of the "sender" meta-item. Just leave it out, thanks! 🐶
 
 4. **You don't need 30-line-long signatures:** I know you want to provide the user with all details about your company - but stop it, you don't need to! The fact that the user already contacted you over e-mail means that he doesn't need to know your freaking hotline-number or postal address (and even if he wants those, he just needs to open your website). Just be a bit more personal and use signatures which simply contain the name of the support staff who wrote the answer. For example: `Cheers, Scott` — Thats it! You don't need more[^2].
@@ -52,7 +52,7 @@ For example, if a user reports a bug over Twitter, don't advise him to fill out 
 
 **EDIT 2:** When allowing users to write their feedback or questions via e-mail, the sender of the response should be set to your company's name (or something similar). I saw a few bad examples like the following one, who basically set it to the real name of the guy who wrote me back:
 
-![e-mail autocomplete](/assets/posts/email-autocomplete.png)
+{% include image.liquid file="email-autocomplete.png" %}
 
 Now every time the user opens the mail app, it auto-completes the content of the "receiver"-field as soon as he starts typing in the company's adress. And no - even if he tries to remove this information, most apps will make sure that it stays.
 
