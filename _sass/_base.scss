@@ -32,10 +32,6 @@ img {
 	border-radius: 5px;
 }
 
-p > img {
-	margin: 40px 0;
-}
-
 iframe {
 	width: 100%;
 }
@@ -98,6 +94,11 @@ a {
 	&:hover {
 		color: $text-color;
 		text-decoration: underline;
+	}
+
+	&.image {
+		margin: 40px 0;
+		display: block;
 	}
 
 }
