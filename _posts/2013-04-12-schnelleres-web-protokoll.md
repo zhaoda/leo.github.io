@@ -20,4 +20,4 @@ Derzeit wird die Erweiterung von Google entwickelt. Diese nutzen das Programm f√
 Ein kleines Video, in dem das Programm im Zusammenhang mit einer normalen HTML-Seite mit einigen Grafiken genutzt wird, ist √ºbrigends [hier][2] zu finden.
 
 [1]: https://developers.google.com/speed/spdy/mod_spdy/
-[2]: https://www.youtube.com/watch?v=vEYKRhETy4A
+[2]: https://youtu.be/vEYKRhETy4A
