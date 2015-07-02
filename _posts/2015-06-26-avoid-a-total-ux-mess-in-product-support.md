@@ -46,7 +46,7 @@ Every single one of your users writes messages to multiple completely different 
 
 For example, if a user reports a bug over Twitter, don't advise him to fill out a freaking bug report. That just makes the user's effort on getting the feedback to you redundant. — If you're out of luck, he might even loose the incentive of writing you once again completely.
 
-*Thanks to @e2b for letting me know about this.*
+*Thanks to [@e2b][4] for letting me know about this.*
 
 ---
 
@@ -69,3 +69,4 @@ And technically, this info isn't useful at all. I mean, if you have more than 1 
 [1]: http://codepen.io
 [2]: http://www.guinnessworldrecords.com/60/images/records/1971.jpg "Ray Tomlinson — a.k.a. the guy who wrote the first ever email"
 [3]: #make-use-of-the-users-existing-tools
+[4]: https://github.com/e2b

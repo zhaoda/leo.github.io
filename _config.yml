@@ -25,7 +25,6 @@ include: [ 'robots.txt' ]
 exclude: [ 'LICENSE', 'README.md', 'CNAME', 'vendor', 'Gemfile' ]
 gems:
     - jekyll-sitemap
-    - jekyll-mentions
     
 compress_html:
     clippings: all
