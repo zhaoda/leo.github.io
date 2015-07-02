@@ -28,4 +28,4 @@ Nun wird der Inhalt des als letztes genannten DIV-Elements vertikal zentriert. W
 
 Falls die vertikale Zentrierung nicht innerhalb anderer Elemente erfolgt, müssen die Elemente `html` und `body` in Sachen Breite und Höhe natürlich noch so angepasst werden, dass sie die Browser-Fläche komplett ausfüllen, wie in der Demo gezeigt. Viel Spaß beim Coden!
 
-[1]: http://cdpn.io/swJqL
+[1]: http://codepen.io/jonsuh/pen/duvgE

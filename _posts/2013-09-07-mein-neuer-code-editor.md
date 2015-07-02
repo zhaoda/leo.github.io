@@ -18,5 +18,5 @@ Mir ist aufgefallen, dass das Projekt nicht nur unter dem Namen "Brackets" sonde
 Alles in allem funktioniert die Anwendung wunderbar, alles läuft flüssig. Bisher konnte ich noch keine Bugs oder ähnliches erkennen.
 
 [1]: http://notepad-plus-plus.org/
-[2]: http://brackets.io/index_de.html
+[2]: http://brackets.io
 [3]: http://html.adobe.com/edge/code/
