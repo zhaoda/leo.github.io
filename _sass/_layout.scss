@@ -180,6 +180,28 @@
 
 	> li {
 		margin-bottom: $spacing-unit;
+
+		a {
+			display: inline-block;
+		}
+
+		.permalink {
+			background: url( /assets/link.svg ) no-repeat;
+			width: 40px;
+			opacity: 0.4;
+			text-indent: -999999px;
+			background-size: 30px;
+			background-position: center top 2px;
+			transition: 0.3s opacity;
+			-webkit-transition: 0.3s opacity;
+			margin-left: 5px;
+
+			&:hover {
+				opacity: 1;
+			}
+
+		}
+
 	}
 
 }
