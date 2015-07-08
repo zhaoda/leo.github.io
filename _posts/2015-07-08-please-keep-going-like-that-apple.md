@@ -17,7 +17,7 @@ While I'm very happy about this huge step into the right direction, I also hope 
 Let's hope the best!
 
 [1]: http://www.w3schools.com/browsers/browsers_stats.asp
-[2]: https://www.youtube.com/watch?v=N8gvf60RWgw
+[2]: https://youtu.be/N8gvf60RWgw
 [3]: https://developer.apple.com/library/prerelease/mac/releasenotes/General/WhatsNewInSafari/Articles/Safari_9.html
 [4]: https://developer.apple.com/videos/wwdc/2015/?id=501
 
