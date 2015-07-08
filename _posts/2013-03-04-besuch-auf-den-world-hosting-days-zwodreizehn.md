@@ -1,8 +1,5 @@
 ---
-layout:         post
-title:          "Besuch auf den World Hosting Days 2013"
-date:           2013-03-04 18:21
-categories:     general
+title: Besuch auf den World Hosting Days 2013
 ---
 
 Zunächst einmal vielen herzlichen Dank an [Max Brown][1], der mir diese Aktion überhaupt möglich gemacht hat. Ich werde mit zwei Kollegen auf den WordHostingDays 2013 im Europa-Park Rust (nähe Frankfurt) sein dürfen.

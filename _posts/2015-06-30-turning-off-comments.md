@@ -1,8 +1,5 @@
 ---
-layout:         post
-title:          "Turning off comments"
-date:           2015-06-30 14:27
-categories:     site
+title: Turning off comments
 ---
 
 Since I started this blog using Jekyll, I knew this day would come. And yeah, here it is! Because this is a static site, there's no way to implement a neat commenting system without doing many things client-side. Since I thought allowing people to share their knowledge on my site was a good thing, I've embedded Disqus - a really convenient way to manage comments.

@@ -1,8 +1,5 @@
 ---
-layout:         post
-title:          "Possible Ways to Avoid Floating in CSS"
-date:           2015-06-13 13:39
-categories:     general
+title: Possible Ways to Avoid Floating in CSS
 ---
 
 Do we still need to use it? Yes, the `float` property has been here for a really long time. I guess most of us used it for galleries, navigations and maybe also grids. But let's be honest with ourselves, it's a very uncomfortable way to align items one-after-another.

@@ -1,8 +1,5 @@
 ---
-layout:         post
-title:          "Weg mit diesen blöden Verknüpfungs-Pfeilen auf Win 7"
-date:           2014-01-27 19:33
-categories:     general
+title: Weg mit diesen blöden Verknüpfungs-Pfeilen auf Windows 7
 ---
 
 Da ich es an meinem "Arbeitsplatz" ja gerne immer relativ ordentlich habe, musste es natürlich irgendwann so weit kommen, dass mir diese dummen Dinger einfach ins Auge stechen. Wie es der Titel schon unschwer vermuten lässt, zeige ich dir heute, wie du diese kleinen Pfeile von den Verknüpfungen auf deinem Win7-Desktop entfernen kannst.

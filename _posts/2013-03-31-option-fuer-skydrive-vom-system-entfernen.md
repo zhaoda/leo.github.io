@@ -1,8 +1,5 @@
 ---
-layout:         post
-title:          "Nervige SkyDrive-Option vom Rechtsklickmenü entfernen"
-date:           2013-03-31 13:20
-categories:     general
+title: Nervige SkyDrive-Option vom Rechtsklickmenü entfernen
 ---
 
 Vor kurzem hatte ich ein wenig Freizeit, und wusste nicht, was ich denn machen solle. Nach einigen Minuten intensiver Überlegung entschied ich mich, die Demo-Version von Office 365 herunterzuladen, um mir - vor dem Kauf - durch die eventuellen Features der Software eine eigene Meinung bilden zu können.

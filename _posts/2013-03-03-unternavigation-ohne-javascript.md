@@ -1,8 +1,5 @@
 ---
-layout:         post
-title:          "Unternavigation ohne Javascript"
-date:           2013-03-03 18:13
-categories:     general
+title: Unternavigation ohne Javascript
 ---
 
 Schon wieder ein Thema, bei dem man einige unbrauchbare Scripte und Funktionen weglassen kann. Denn diese verlängern die Ladezeiten und lassen die Navi nicht wirklich gut auf gleichgesinnte Webentwickler und Coder wirken.

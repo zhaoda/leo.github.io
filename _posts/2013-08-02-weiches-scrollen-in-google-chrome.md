@@ -1,8 +1,5 @@
 ---
-layout:         post
-title:          "Weiches Scrollen in Google's Chrome"
-date:           2013-08-02 15:31
-categories:     general
+title: Weiches Scrollen in Google's Chrome
 ---
 
 Vor einigen Tagen habe ich offiziell meinen Browser gewechselt. Damals hatte ich noch Mozilla Firefox, von dem ich eigentlich ziemlich überzeugt war, da er außerdem hervorragende Werkzeuge für Web-Entwickler wie mich bot. Jedoch gefiel mir auf Dauer das Interface nicht mehr, weshalb ich Googles Chrome zu meinem Hauptbrowser machte.

@@ -1,8 +1,5 @@
 ---
-layout:         post
-title:          "Cookies ganz einfach per Javascript verwalten"
-date:           2013-03-01 23:16
-categories:     general
+title: Cookies ganz einfach per Javascript verwalten
 ---
 
 Da PHP die Funktionen, die mit Cookies zutun haben, bekannter Weise ja nur aktiviert, wenn die jeweilige Datei neu geladen wird, dachte ich mir, dass ich mal einen kleinen Artikel darüber schreibe, wie man Cookies über Javascript setzt, ausliest und wieder entfernt. All diese Funktionen können verwenden werden, auch ohne, dass die aufgerufene Datei neu geladen werden muss.

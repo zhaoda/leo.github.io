@@ -1,8 +1,5 @@
 ---
-layout:         post
-title:          "Goodbye, WhatsApp"
-date:           2015-04-08 12:01
-categories:     general
+title: Goodbye, WhatsApp
 ---
 
 More than 5 years have passed since WhatsApp saw the light of day for the first time. Now it was even acquired by the biggest social network out there: Facebook. But in my opinion, the acquisition wasn't really useful. They did little or nothing to make progress and make the app better than it was.

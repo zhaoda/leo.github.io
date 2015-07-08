@@ -1,8 +1,5 @@
 ---
-layout:         post
-title:          "Avoiding a total UX-mess in product support"
-date:           2015-06-27 14:22
-categories:     usability
+title: Avoiding a total UX-mess in product support
 ---
 
 I'm not a "Well, they might fix it in the future" kind of a person. If my process of interaction with a specific product is being interrupted by some nasty bug or a missing feature, I will make sure to let the creator know about this - no matter if it's made by a single person or a company like Apple (I still believe that the folks over there will take their time to read it and sometimes even write back).

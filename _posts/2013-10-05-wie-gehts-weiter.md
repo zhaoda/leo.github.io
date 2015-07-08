@@ -1,8 +1,5 @@
 ---
-layout:         post
-title:          "Wie geht's weiter?"
-date:           2013-10-05 20:46
-categories:     general
+title: Wie geht's weiter?
 ---
 
 Einige werden sich mittlerweile sicherlich fragen: "Was macht denn der Leo eigentlich nun?". Naja, leicht zu erklären: Nachdem ich neben Medientipps jetzt auch noch [FrewHost][1] abgegeben habe, hab ich nun endlich mehr Zeit für andere Hobbys, etc.

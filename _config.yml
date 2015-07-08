@@ -47,4 +47,3 @@ defaults:
             type: "posts"
         values:
             layout: "post"
-    -

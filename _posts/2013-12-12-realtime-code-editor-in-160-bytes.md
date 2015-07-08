@@ -1,9 +1,5 @@
 ---
-layout:         post
-title:          "Realtime Code-Editor in 160 Bytes"
-date:           2013-12-12 20:38
-categories:     general
-link:           http://xem.github.io/miniCodeEditor/minimal.html
+title: Realtime Code-Editor in 160 Bytes
 ---
 
 Ein paar JavaScript-Freaks aus Frankreich, Norwegen und Deutschland haben sich vor kurzem zusammengefunden, um ihre Idee des kleinsten Code-Editors der Welt zu verwirklichen. Dies ist ihnen anscheinend auch gelungen.
@@ -22,4 +18,4 @@ Hierfür ist (wie sich einige unter euch jetzt denken werden) keine Datenbank n�
 
 Wer möchte kann sich dann auch noch aus 6 verschiedenen Anordnungen der einzelnen Textboxen wählen. Andernfalls können alle Teile des Editors natürlich mittels CSS nach Wunsch designtechnisch angepasst werden.
 
-[1]: {{ page.link }}
+[1]: http://xem.github.io/miniCodeEditor/minimal.html

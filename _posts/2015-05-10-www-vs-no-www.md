@@ -1,8 +1,5 @@
 ---
-layout:         post
-title:          "WWW vs. no-WWW - Fight!"
-date:           2015-05-10 16:24
-categories:     general
+title: WWW vs. no-WWW - Fight!
 ---
 
 When it comes to the elder of all subdomains, the minds of many developers often divide into two different bases:

@@ -1,8 +1,5 @@
 ---
-layout:         post
-title:          "You Probably Don't Need iframes for External Content"
-date:           2015-05-30 22:51
-categories:     general
+title: You Probably Don't Need iframes for External Content
 ---
 
 If you're moving around the web once in a while, you certainly already know about them: iframes. They have been accompanying us since Netscape 2 and still haven't lost much of their popularity (although there are many other ways to load content of other websites into your site). Even big players like Twitter, Facebook or Google are using them to provide easy implemenations of their data for developers.
