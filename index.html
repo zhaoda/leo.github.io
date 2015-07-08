@@ -13,13 +13,7 @@ layout: default
 			<span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
 			<h2>
-
-				<a href="{% if post.link %}{{ post.link }}{% else %}{{ post.url }}{% endif %}" class="post-link">{{ post.title }}</a>
-
-				{% if post.link %}
-				<a href="{{ post.url }}" class="permalink">this</a>
-				{% endif %}
-
+				<a href="{{ post.url }}" class="post-link">{{ post.title }}</a>
 			</h2>
 
 		</li>
