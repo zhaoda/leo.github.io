@@ -1,6 +1,6 @@
 ---
 title: Yoga and It’s Cronies
-update: 2015-05-08 22:13
+updated: 2015-05-08 22:13
 ---
 
 As you read this, you will propably already know, what I mean with that word. I strongly believe you also have some friends or family doing it.

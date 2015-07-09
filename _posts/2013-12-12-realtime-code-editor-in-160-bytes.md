@@ -1,6 +1,6 @@
 ---
 title: Realtime Code-Editor in 160 Bytes
-update: 2013-12-12 20:38
+updated: 2013-12-12 20:38
 ---
 
 Ein paar JavaScript-Freaks aus Frankreich, Norwegen und Deutschland haben sich vor kurzem zusammengefunden, um ihre Idee des kleinsten Code-Editors der Welt zu verwirklichen. Dies ist ihnen anscheinend auch gelungen.

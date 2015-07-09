@@ -1,6 +1,6 @@
 ---
 title: Responsive-Designs erstellen
-update: 2013-02-25 21:11
+updated: 2013-02-25 21:11
 ---
 
 Da ich mich immer mehr Leute fragen, wie das mit dem Responsive denn geht, dachte ich mir, die grundlegenden Informationen hierzu mal in einem kleinen Artikel zusammenzufassen, welcher gerade seine Gestalt annimmt.

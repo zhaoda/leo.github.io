@@ -1,6 +1,6 @@
 ---
 title: Please keep going like that, Apple!
-update: 2015-07-04 17:26
+updated: 2015-07-04 17:26
 ---
 
 Over the last few years, the company I'm talking about didn't contribute much when it comes to pushing the web forward (at least as far as I know). Their web browser "Safari" indeed got a new look on OS X Yosemite, but they didn't change much regarding web standard support or even new features for developers.

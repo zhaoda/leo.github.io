@@ -1,6 +1,6 @@
 ---
 title: Neues Projekt in der Startphase
-update: 2013-08-01 21:30
+updated: 2013-08-01 21:30
 ---
 
 Eigentlich hätte ich euch schon viel früher darüber informieren sollen, aber das Projekt hat einen ziemlich großen Teil meiner Zeit gefressen. Ich rede von Uptime-Monitor, einem schlanken, einfach zu bedienenden Dienst, welcher es Besitzern einer Homepage möglich macht, über den Status ihrer Webseite auf dem Laufenden bleiben zu können, ganz egal wo auch immer sie gerade sind.
