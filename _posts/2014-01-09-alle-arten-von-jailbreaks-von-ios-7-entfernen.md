@@ -1,5 +1,6 @@
 ---
 title: Alle Arten von Jailbreaks von iOS 7 entfernen
+date: 2014-01-09 18:24
 ---
 
 Am 22. Dezember des letzten Jahres gaben Entwickler auf ihrem Twitter-Profil den Link zum ersten Jailbreak für Apples iOS 7 bekannt. Auch ich habe mir das Teil direkt danach heruntergeladen, um das System mal auf meinem iPhone 5 ausprobieren zu können.

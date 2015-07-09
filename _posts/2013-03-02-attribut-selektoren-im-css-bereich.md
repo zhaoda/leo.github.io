@@ -1,5 +1,6 @@
 ---
 title: Attribut-Selektoren in CSS 3
+date: 2013-03-02 22:00
 ---
 
 Selbstverständlich freut es jeden Webdesigner, wenn er die HTML-Elemente seines Codes direkt ansprechen, und mit CSS gezielt ändern kann. Wenn ein Element eine CSS-Klasse oder ein ID-Attribut besitzt, funktioniert das natürlich ganz einfach. Aber wie steht es mit einem Element mitten in einer Liste?

@@ -1,5 +1,6 @@
 ---
 title: Optimieren der eigenen Homepage
+date: 2013-03-05 16:52
 ---
 
 Im heutigen Zeitalter, indem die Medien schon fast die Oberhand ergriffen haben, ist es sehr wichtig, die eigene Webseite an die bekanntesten Dienste zu optimieren. Es bietet sich somit die Möglichkeit, spezielle Informationen für die jeweiligen Dienste wie zum Beispiel Facebook oder Google Plus vorzubereiten.

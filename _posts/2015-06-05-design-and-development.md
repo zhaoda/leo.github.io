@@ -1,5 +1,6 @@
 ---
 title: Design &amp; Development
+date: 2015-07-03 23:51
 ---
 
 The two big Ds[^1] in the world's most used connection-network. Completely different topics, but still one thing in the end. To me, it feels like the number of people who are doing development as well as design simultaneously is increasing rapidly. **Nobody wants to just be really good at one thing instead of being so-so great on two domains.**
