@@ -21,8 +21,4 @@ You're completely free to fork this repository and use it as starting-point for 
 
 I would also recommend you to make some changes to the theme, of course (if not to completely change it). So that people aren't confused when visiting your site.
 
-## About meta-data
-
-Each article on this site has its own meta-information: The values `title` and `date`. The first one is self-explaining, I guess. But the second one can be misunderstood: It doesn't contain the date on which the post was originally published, but the one on which it was updated the last time. So please adjust the value of this property every time you propose changes on a specific article.
-
 [1]: https://travis-ci.org/leo/leo.github.io
