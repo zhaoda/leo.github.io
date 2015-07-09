@@ -1,6 +1,6 @@
 ---
 title: iOS-Apps über den Browser ansprechen
-date: 2013-10-01 10:57
+update: 2013-10-01 10:57
 ---
 
 Wie einige von euch sicher schon gemerkt haben, sind die generierten Buttons zum Twittern und Flattrn meiner Artikel vom unteren Teil der Beiträge verschwunden.

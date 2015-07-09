@@ -1,6 +1,6 @@
 ---
 title: Between Performance and Developer-friendliness
-date: 2015-03-03 10:04
+update: 2015-03-03 10:04
 ---
 
 It’s another Tuesday evening. I once again sat the whole afternoon after school on my PC thinking about in which direction of the programming genre I will move in the next few years. I need to say; I still really like coding for the web (of course there were times in the last years when it bugged me a bit, but it passed because I repeatedly found another idea which I could realize to make the web more effective and also fun).

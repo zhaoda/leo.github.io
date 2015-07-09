@@ -1,6 +1,6 @@
 ---
 title: Inhalte per CSS ganz einfach vertikal zentrieren
-date: 2013-09-18 18:58
+update: 2013-09-18 18:58
 ---
 
 In letzer Zeit las ich im Netz einige Beitrage von Nutzern, die sich darüber beschwerten, dass man Text bzw. Inhalte in HTML per CSS nicht vertikal ausrichten kann. Das stimmt so eigentlich nicht, weshalb ich im folgenden mal eine kleine Anleitung gebe, wie das denn zu schaffen ist:

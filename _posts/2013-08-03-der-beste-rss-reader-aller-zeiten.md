@@ -1,6 +1,6 @@
 ---
 title: Der beste RSS-Reader aller Zeiten
-date: 2013-08-03 15:25
+update: 2013-08-03 15:25
 ---
 
 Heute möchte ich euch meinen neuen Lieblings-Reader für RSS-Feeds vorstellen: "Feeder" heißt der gute. 

@@ -1,6 +1,6 @@
 ---
 title: Schnelleres Web-Protokoll
-date: 2013-04-12 16:00
+update: 2013-04-12 16:00
 ---
 
 Vor einigen Tagen hatte ich mich mit einem Kunden über die möglichen Varianten zur Verbesserung der Leistung meiner Server unterhalten. Dabei kamen wir zudem auf das Thema der Ladezeiten. Ich meinte, dass ich für weitere Arten offen währe, die es ermöglichen, dass Daten schneller geladen werden können.

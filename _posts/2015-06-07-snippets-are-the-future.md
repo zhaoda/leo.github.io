@@ -1,6 +1,6 @@
 ---
 title: Snippets Are the Future
-date: 2015-06-07 21:30
+update: 2015-06-07 21:30
 ---
 
 The last time I wrote about this problem (in [this post][1]), I was thinking that the web just isn't built for the maximum performance when using pre-made libraries from other people. And yes, I still think that's a major obstacle for which we still need to find a proper fix.

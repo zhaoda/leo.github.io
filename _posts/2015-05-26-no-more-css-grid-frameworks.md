@@ -1,6 +1,6 @@
 ---
 title: No More CSS Grid Frameworks
-date: 2015-05-26 20:53
+update: 2015-05-26 20:53
 ---
 
 A few minutes ago, I read a [post][1] on Designer News that was created by a guy that wanted to create another flexbox-based grid framework for CSS. He probably knew that there are already many of them out there. But that didn't held him back from asking for interest in another one.
