@@ -27,7 +27,7 @@ layout: null
 			<title>{{ post.title | xml_escape }}</title>
 			<id>{{ post.url | prepend: site.url }}</id>
 			<updated>{{ post.date | date_to_xmlschema }}</updated>
-			<content xml:lang="en">{{ post.content | xml_escape }}</content>
+			<content xml:lang="en">{{ post.content | replace: '&#8617;', '&#8617;&#xfe0e;' | xml_escape }}</content>
 		</entry>
 
 	{% endfor %}
