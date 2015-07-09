@@ -7,7 +7,8 @@ layout: null
 
 	<title>{{ site.title | xml_escape }}</title>
 	<subtitle>{{ site.description | xml_escape }}</subtitle>
-	<link href="{{ site.url }}/" />
+	<link rel="alternate" href="{{ site.url }}/" />
+	<link rel="self" href="/feed.xml" />
 	<rights>Copyright @ {{ site.time | date: '%Y' }}, {{ site.author }}</rights>
 	<icon>/assets/favicon.png</icon>
 
@@ -27,7 +28,7 @@ layout: null
 			<title type="html">{{ post.title | xml_escape }}</title>
 			<id>{{ post.url | prepend: site.url }}</id>
 			<updated>{{ post.date | date_to_xmlschema }}</updated>
-			<content xml:lang="en" type="html">{{ post.content | replace: '&#8617;', '&#8617;&#xfe0e;' | xml_escape }}</content>
+			<content type="html">{{ post.content | replace: '&#8617;', '&#8617;&#xfe0e;' | xml_escape }}</content>
 		</entry>
 
 	{% endfor %}
