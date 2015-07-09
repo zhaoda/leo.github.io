@@ -1,10 +1,16 @@
-<p
-	data-height="{% if include.height %}{{ include.height }}{% else %}300{% endif %}"
-	data-theme-id="15948"
-	data-slug-hash="{{ include.slug }}"
-	data-default-tab="result"
-	data-user="mindrun"
-	class="codepen"
+{% if include.height %}
+	{% assign height = include.height %}
+{% else %}
+	{% assign height = "300" %}
+{% endif %}
+
+<iframe
+	height="{{ height }}"
+	scrolling="no"
+	src="//codepen.io/mindrun/embed/{{ include.slug }}/?height={{ height }}&theme-id=15948&default-tab=result"
+	frameborder="no"
+	allowtransparency="true"
+	allowfullscreen="true"
 >
-	See the Pen <a href="http://codepen.io/mindrun/pen/{{ include.slug }}/">Flexbox</a> by Leonard
-</p>
+	See <a href="http://codepen.io/mindrun/pen/{{ include.slug }}/">this Pen</a> on CodePen.
+</iframe>
