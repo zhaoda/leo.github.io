@@ -27,7 +27,7 @@ layout: null
 		<entry>
 			<title type="html">{{ post.title | xml_escape }}</title>
 			<id>{{ post.url | prepend: site.url }}</id>
-			<updated>{{ post.date | date_to_xmlschema }}</updated>
+			<updated>{{ post.updated | date_to_xmlschema }}</updated>
 			<content type="html" xml:lang="en"><![CDATA[{{ post.content | replace: "&#8617;", "&#8617;&#xfe0e;" }}]]></content>
 		</entry>
 
