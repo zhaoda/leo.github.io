@@ -19,6 +19,10 @@ layout: replace
 
 		{% include footer.liquid %}
 
+		{% if page.path contains '_posts' and content contains 'twitter-tweet' %}
+			<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+		{% endif %}
+
 	</body>
 
 </html>
