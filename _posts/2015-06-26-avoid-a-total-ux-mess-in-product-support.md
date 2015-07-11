@@ -1,5 +1,5 @@
 ---
-title: Avoiding a total UX-mess in product support
+title: Avoiding a Total UX-Mess in Product Support
 updated: 2015-06-29 14:48
 ---
 

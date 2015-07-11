@@ -1,5 +1,5 @@
 ---
-title: Please keep going like that, Apple!
+title: Please Keep Going like That, Apple!
 updated: 2015-07-04 17:26
 ---
 

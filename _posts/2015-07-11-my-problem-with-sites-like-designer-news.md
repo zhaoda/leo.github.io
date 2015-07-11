@@ -1,5 +1,5 @@
 ---
-title: My Problem with Sites Like Designer News
+title: My Problem with Sites like Designer News
 updated: 2015-07-11 12:15
 ---
 

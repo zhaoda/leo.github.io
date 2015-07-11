@@ -1,5 +1,5 @@
 ---
-title: Eigene Smartphones entwicklen
+title: Eigene Smartphones Entwicklen
 updated: 2013-09-14 14:05
 ---
 

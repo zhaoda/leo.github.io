@@ -1,5 +1,5 @@
 ---
-title: Between Performance and Developer-friendliness
+title: Between Performance and Developer-Friendliness
 updated: 2015-03-03 10:04
 ---
 

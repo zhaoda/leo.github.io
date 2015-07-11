@@ -1,5 +1,5 @@
 ---
-title: Turning off comments
+title: Turning off Comments
 updated: 2015-06-30 14:27
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: E-Mails mittels Linux-Shell versenden
+title: E-Mails Mittels Linux-Shell Versenden
 updated: 2013-10-20 22:35
 ---
 

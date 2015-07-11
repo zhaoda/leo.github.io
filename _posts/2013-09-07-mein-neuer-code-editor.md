@@ -1,5 +1,5 @@
 ---
-title: Mein neuer Code-Editor
+title: Mein Neuer Code-Editor
 updated: 2013-09-07 19:31
 ---
 

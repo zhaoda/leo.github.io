@@ -1,5 +1,5 @@
 ---
-title: Weg mit diesen blöden Verknüpfungs-Pfeilen auf Windows 7
+title: Weg Mit Diesen Blöden Verknüpfungs-Pfeilen Auf Windows 7
 updated: 2014-01-27 19:33
 ---
 

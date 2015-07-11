@@ -1,5 +1,5 @@
 ---
-title: Alle Arten von Jailbreaks von iOS 7 entfernen
+title: Alle Arten Von Jailbreaks Von iOS 7 Entfernen
 updated: 2014-01-09 18:24
 ---
 

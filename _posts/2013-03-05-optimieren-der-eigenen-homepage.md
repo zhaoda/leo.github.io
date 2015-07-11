@@ -1,5 +1,5 @@
 ---
-title: Optimieren der eigenen Homepage
+title: Optimieren Der Eigenen Homepage
 updated: 2013-03-05 16:52
 ---
 

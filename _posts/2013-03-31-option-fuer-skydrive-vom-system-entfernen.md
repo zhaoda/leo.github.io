@@ -1,5 +1,5 @@
 ---
-title: Nervige SkyDrive-Option vom Rechtsklickmenü entfernen
+title: Nervige SkyDrive-Option Vom Rechtsklickmenü Entfernen
 updated: 2013-03-31 13:20
 ---
 

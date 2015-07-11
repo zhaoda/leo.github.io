@@ -1,5 +1,5 @@
 ---
-title: Wie geht's weiter?
+title: Wie Geht's Weiter?
 updated: 2013-10-05 20:46
 ---
 

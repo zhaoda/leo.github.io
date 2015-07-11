@@ -1,5 +1,5 @@
 ---
-title: Kurzer Überblick zur WWDC 2013
+title: Kurzer Überblick Zur WWDC 2013
 updated: 2013-06-10 22:24
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Responsive-Designs erstellen
+title: Responsive-Designs Erstellen
 updated: 2013-02-25 21:11
 ---
 

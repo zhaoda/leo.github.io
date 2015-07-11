@@ -1,5 +1,5 @@
 ---
-title: iOS-Apps über den Browser ansprechen
+title: iOS-Apps über Den Browser Ansprechen
 updated: 2013-10-01 10:57
 ---
 

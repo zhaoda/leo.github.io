@@ -1,5 +1,5 @@
 ---
-title: Inhalte per CSS ganz einfach vertikal zentrieren
+title: Inhalte per CSS Ganz Einfach Vertikal Zentrieren
 updated: 2013-09-18 18:58
 ---
 

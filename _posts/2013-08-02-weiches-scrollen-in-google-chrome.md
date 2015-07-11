@@ -1,5 +1,5 @@
 ---
-title: Weiches Scrollen in Google's Chrome
+title: Weiches Scrollen in Google Chrome
 updated: 2013-08-02 15:31
 ---
 
