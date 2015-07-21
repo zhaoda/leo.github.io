@@ -23,7 +23,7 @@ Thankfully, I was able to make a big step out of this mess and get a job at [med
 
 ## Technical stuff
 
-... is built using Jekyll, the Liquid markup format and entirely deployed using GitHub Pages. Before I got here, the site was hosted on WordPress, Ghost and Tumblr (which I needed to ditch because I wanted the maximum of performance for my visitors).
+The site is built using Jekyll, the Liquid markup format and entirely deployed using GitHub Pages. Before I got here, the site was hosted on WordPress, Ghost and Tumblr (which I needed to ditch because I wanted the maximum of performance for my visitors).
 
 The great thing about Jekyll is that I'm able to keep my posts in a clean way. Besides that, it's of course extremely fast and as if this wasn't enough, also completely free of charge. Since GitHub is also hosting all Pages on a CDN, my readers get the most power and I don't need to worry about stuff like php.ini settings, caching or minification.
 
