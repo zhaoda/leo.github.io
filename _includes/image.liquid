@@ -1,4 +1,4 @@
-{% assign url = "/assets/posts/" | append: include.file %}
+{% assign url = "/assets/static/" | append: include.file %}
 
 <a href="{{ url }}" target="_blank" class="image">
 	<img src="{{ url }}" alt="{% if include.alt %}{{ include.alt }}{% else %}Image{% endif %}">

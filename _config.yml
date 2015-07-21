@@ -1,9 +1,6 @@
 # General
 title: Leo
 description: "A teenagers view on web development and intuitive UI design."
-
-author: Leonard Lamprecht
-email: lamprechtleonard@gmail.com
 url: http://leo.github.io
 google_verify: epFgX0s_0RM3CdjwFcsewfXzPov2g8s9ZBOLyaIUH-o
 
@@ -19,7 +16,7 @@ sass:
     style: :compressed
 
 #Other
-permalink: /blog/:title
+permalink: /notes/:title
 timezone: Europe/Berlin
 include: [ 'robots.txt' ]
 exclude: [ 'LICENSE', 'README.md', 'CNAME', 'vendor', 'Gemfile' ]
@@ -33,17 +30,18 @@ compress_html:
 
 # Self explaining
 defaults:
-    -
-        values:
-            layout: "default"
-            lang: "de"
-    -
-        scope:
-            type: "pages"
-        values:
-            layout: "page"
-    -
-        scope:
-            type: "posts"
-        values:
-            layout: "post"
+  -
+    scope:
+      path: ""
+    values:
+      layout: "null"
+  -
+    scope:
+      type: "pages"
+    values:
+      layout: "page"
+  -
+    scope:
+      type: "posts"
+    values:
+      layout: "post"

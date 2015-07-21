@@ -1,21 +1,21 @@
 ---
-layout: replace
+layout: compress
 ---
 
 <!DOCTYPE html>
 <html>
 
-	{% include head.liquid %}
+	<head>
+		{% include head.liquid %}
+	</head>
 
-	<body id="top">
+	<body>
 
 		{% include header.liquid %}
 
-		<div class="page-content">
-			<div class="wrapper">
-				{{ content }}
-			</div>
-		</div>
+		<main>
+			{{ content | replace: '&#8617;', '&#8617;&#xfe0e;' }}
+		</main>
 
 		{% include footer.liquid %}
 
