@@ -5,7 +5,7 @@ permalink: /about/
 
 {% include social.liquid %}
 
-Oh, didn't see you there! Looks like you figured out how to access this page, time to give you what you want!
+Oh, didn't see you there! Looks like you figured out how to access this page — time to give you what you want!
 
 Okay, then let's start right over! If you haven't noticed it already by reading my essays, I'm a web developer. And by this, I don't mean a trained one. The stuff I learned on this topic until now didn't come from a scholastic career.
 
