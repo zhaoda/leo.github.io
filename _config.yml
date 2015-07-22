@@ -4,10 +4,6 @@ description: "A teenagers view on web development and intuitive UI design."
 url: http://leo.github.io
 google_verify: epFgX0s_0RM3CdjwFcsewfXzPov2g8s9ZBOLyaIUH-o
 
-# Social
-twitter: lmprht
-github: leo
-
 # Build
 markdown: kramdown
 kramdown:
