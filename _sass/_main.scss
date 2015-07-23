@@ -216,6 +216,10 @@ article {
 				background-position: center center;
 				background-size: auto 100%;
 
+				&:focus {
+					outline: none;
+				}
+
 				$social: twitter github dribbble feed mail;
 
 				@each $format in $social {
