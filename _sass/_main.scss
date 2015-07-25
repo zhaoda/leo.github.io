@@ -269,7 +269,7 @@ section {
 				box-sizing: border-box;
 
 				&:visited {
-					color: #000;
+					color: #888888;
 				}
 
 			}
@@ -283,13 +283,8 @@ section {
 						border-color: #000;
 					}
 
-					&:visited {
-						color: #c2c2c2;
-
-						&:hover {
-							border-color: #c2c2c2;
-						}
-
+					&:visited:hover {
+						border-color: #c2c2c2;
 					}
 
 				}
