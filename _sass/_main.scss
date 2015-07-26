@@ -15,6 +15,10 @@ h2, h3, h4, h5 {
 	margin: 45px 0 25px;
 }
 
+img {
+	max-width: 100%;
+}
+
 a {
 	color: inherit;
 	text-decoration: none;
@@ -26,11 +30,6 @@ a {
 		border: 0;
 		border-radius: 5px;
 		margin: 30px 0;
-
-		img {
-			max-width: 100%;
-		}
-
 	}
 
 }
@@ -100,6 +99,10 @@ iframe {
 ul, ol {
 	margin: 40px 0;
 	padding-left: 50px;
+
+	li {
+		word-wrap: break-word;
+	}
 
 	img {
 		margin: 40px 0;
@@ -177,6 +180,7 @@ article {
 	p {
 		font-size: 15px;
 		line-height: 1.9em;
+		word-wrap: break-word;
 	}
 
 	& + a {
