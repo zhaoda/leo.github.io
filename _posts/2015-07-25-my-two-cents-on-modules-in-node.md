@@ -35,11 +35,12 @@ So what do you think about this? Aren't you also tired of this never ending stor
 
 ---
 
-**EDIT:** I just read about the cool stuff the NPM folks introduced with 3.0.0 - the update also contains a new method of making module-dependencies "flat". According to their description, that means:
+**EDIT:** I just read about the cool stuff the NPM folks introduced with [3.0.0][2] - the update also contains a new method of making module-dependencies "flat". According to their description, that means:
 
 > ... all of your dependencies, and their dependencies, and THEIR dependencies will be installed in your project's `node_modules` folder with no nesting.
 
-Okay. Looks like we got this whole nesting-mess solved. I'm happy that they already figured that out by themselves. Now the only thing that's left to making me really happy, is adding the ability to add global packages to the dependency-list. But that will probably [never happen][2]. Maybe I just need to find a way around this.
+Okay. Looks like we got this whole nesting-mess solved. I'm happy that they already figured that out by themselves. Now the only thing that's left to making me really happy, is adding the ability to add global packages to the dependency-list. But that will probably [never happen][3]. Maybe I just need to find a way around this.
 
 [1]: https://github.com/joyent/node/issues/25770
-[2]: https://github.com/npm/npm/issues/2949#issuecomment-11408461
+[2]: https://github.com/npm/npm/releases?after=v2.12.1
+[3]: https://github.com/npm/npm/issues/2949#issuecomment-11408461
