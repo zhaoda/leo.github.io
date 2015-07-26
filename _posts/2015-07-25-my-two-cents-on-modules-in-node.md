@@ -1,6 +1,6 @@
 ---
 title: My Two Cents on Modules in Node
-updated: 2015-07-25 23:02
+updated: 2015-07-26 14:57
 ---
 
 First off: I'm relatively new to node (started developing with it a few months ago). I'm not yet one of those experienced professionals in this area, so please don't take my arguments to seriously. I'm just trying to describe what bugs me about the way, how modules in node currently work and what I would change.
@@ -33,4 +33,13 @@ I'm not sure but I think we also wouldn't be the first ones implementing this me
 
 So what do you think about this? Aren't you also tired of this never ending story of modules that are nested to the moon? If so, then simply write something about your own opinion on an [issue][1] which I've created for this (I didn't just wanted to link to my blog, that felt a bit stupid).
 
+---
+
+**EDIT:** I just read about the cool stuff the NPM folks introduced with 3.0.0 - the update also contains a new method of making module-dependencies "flat". According to their description, that means:
+
+> ... all of your dependencies, and their dependencies, and THEIR dependencies will be installed in your project's `node_modules` folder with no nesting.
+
+Okay. Looks like we got this whole nesting-mess solved. I'm happy that they already figured that out by themselves. Now the only thing that's left to making me really happy, is adding the ability to add global packages to the dependency-list. But that will probably [never happen][2]. Maybe I just need to find a way around this.
+
 [1]: https://github.com/joyent/node/issues/25770
+[2]: https://github.com/npm/npm/issues/2949#issuecomment-11408461
