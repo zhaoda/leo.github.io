@@ -19,12 +19,10 @@ layout: compress
 
 		{% if page.path contains '_posts' %}
 
-			{% comment %}
 			{% if content contains 'footnotes' %}
 				<aside class="note"></aside>
 				<script async src="/assets/footnotes.js"></script>
 			{% endif %}
-			{% endcomment %}
 
 			{% if content contains 'twitter-tweet' %}
 				<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
