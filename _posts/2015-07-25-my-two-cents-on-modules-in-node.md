@@ -27,7 +27,7 @@ Why don't we just install all modules globally by default? And if a module needs
 
 4. **Faster, more secure and easier on large deployments:** If there's a machine with multiple apps on it, there won't be hundreds of thousands instances of the same module which need to be updated to a specific version. There's only one instance of this module on the system: The latest. And if you're now thinking: "What if an app needs an older version of an module?" — If that's a big point for you, what about creating a single, global folder for this module which contains multiple versions: 1.0.0, 1.0.1 and 1.0.2 for example, etc. — Because if you ask me, *latest* should always be the default, there shouldn't be an excuse. But if it's really necessary, than the app could also require it.
 
-If a module depends on other modules, NPM will still install those automatically if they're listed within the `package.son` file. Just globally (by default), rather than locally.
+If a module depends on other modules, NPM will still install those automatically if they're listed within the `package.json` file. Just globally (by default), rather than locally.
 
 ---
 
