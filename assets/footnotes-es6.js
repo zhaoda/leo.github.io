@@ -8,8 +8,6 @@ class Footnotes {
 			return;
 		}
 
-		tag[0].style.display = 'none';
-
 		var footnotes = tag[0].firstChild.childNodes;
 
 		for( var i = footnotes.length; i--; ) {
