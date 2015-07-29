@@ -1,6 +1,6 @@
 ---
 title: My Two Cents on Modules in Node
-updated: 2015-07-26 14:57
+updated: 2015-07-29 12:49
 ---
 
 First off: I'm relatively new to node (started developing with it a few months ago). I'm not yet one of those experienced professionals in this area, so please don't take my arguments to seriously. I'm just trying to describe what bugs me about the way, how modules in node currently work and what I would change.
@@ -43,6 +43,11 @@ So what do you think about this? Aren't you also tired of this never ending stor
 
 Okay. Looks like we got this whole nesting-mess solved. I'm happy that they already figured that out by themselves. Now the only thing that's left to making me really happy, is adding the ability to add global packages to the dependency-list. But that will probably [never happen][3]. Maybe I just need to find a way around this.
 
+---
+
+**EDIT 2:** I wrote another piece regarding this topic. This time suggesting a method to avoid avoid version incompatibility problems: Take a read on it [here][4]. Why do you think? Leave a comment!
+
 [1]: https://github.com/joyent/node/issues/25770
 [2]: https://github.com/npm/npm/releases?after=v2.12.1
 [3]: https://github.com/npm/npm/issues/2949#issuecomment-11408461
+[4]: https://github.com/nodejs/NG/issues/20
