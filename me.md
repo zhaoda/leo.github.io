@@ -3,7 +3,7 @@ title: About
 permalink: /about/
 ---
 
-{% include social.liquid %}
+{% include social.html %}
 
 Oh, didn't see you there! Looks like you figured out how to access this page — time to give you what you want!
 

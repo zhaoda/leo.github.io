@@ -20,7 +20,7 @@ crontab -l	[Alle Cronjobs nach Erstellungsdatum auflisten]
 
 Nun starte ich die Erstellung einer neuen Cron-Aufgabe mittels `crontab -e`. Dies wird den Editor öffnen, in den ich dann den Syntax für den gewünschten Cron-Task eingebe. Dieser wird mit Hilfe des folgenden Schemas aufgebaut:
 
-{% include image.liquid file="cronjob-aufbau.png" %}
+{% include image.html file="cronjob-aufbau.png" %}
 
 Wie oben schon beschrieben möchte ich, dass jeden Tag um genau 8:30 Uhr eine bestimmte Datei ausgeführt wird, welche das regelmäßige Backup der Zugriffe ermöglicht. Somit müssen die ersten fünf Chars des Kommandos wie folgt lauten:
 

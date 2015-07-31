@@ -36,7 +36,7 @@ display: block;			// all other ones
 
 For the first steps, there's absolutely no need to add attributes to the child items. They will magically start reacting to this change and will immediately line up one after another. If the content elements of the container aren't modified in any other way, it will look like this:
 
-{% include pen.liquid slug="1becc47f9b6b90d3dad30649e061ddbc" height="240" %}
+{% include pen.html slug="1becc47f9b6b90d3dad30649e061ddbc" height="240" %}
 
 But beware, there are many other cool properties like `justify-content` (which I also used to center the items in this preview), `align-self` and `order`. If you want to learn more about how to exactly use them, take a glimpse on Mozilla's [documentation][2]{:target="_blank"} (the other related properties are shown on the left there).
 
@@ -50,7 +50,7 @@ Okay then. I will now try to be as direct as possible when presenting you the pr
 
 When setting up a portion of clean HTML code, you'll probably make use of several great indention options to make the code easily readable. That means, you'll put each child element into a new line instead of writing them all successively. And that's great, please don't do it otherwise! However, this indention will generate irritating space-characters between the elements in the output — look here:
 
-{% include pen.liquid slug="cd4a213638114aea89cbd3137b36bb19" height="240" %}
+{% include pen.html slug="cd4a213638114aea89cbd3137b36bb19" height="240" %}
 
 But of course we neither need nor want them to show up. They're just completely useless when creating columns. To fix this issue, we need to set `font-size` to 0 or put all items in one line within the code. Well, you might have already noticed it: That's also a hacky solution, isn't it? And not something that has been covered by the creators of this property, so it might also be inappropriate to use this value for columns (I guess that's were the opinions differ. Many people are arguing that this is something that can be overlooked without worries, other people might say it's clear that it's not the right property for this case).
 

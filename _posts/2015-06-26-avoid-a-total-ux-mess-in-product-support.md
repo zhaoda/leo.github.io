@@ -50,7 +50,7 @@ For example, if a user reports a bug over Twitter, don't advise him to fill out 
 
 **EDIT 2:** When allowing users to write their feedback or questions via e-mail, the sender of the response should be set to your company's name (or something similar). I saw a few bad examples like the following one, who basically set it to the real name of the guy who wrote me back:
 
-{% include image.liquid file="email-autocomplete.png" %}
+{% include image.html file="email-autocomplete.png" %}
 
 Now every time the user opens the mail app, it auto-completes the content of the "receiver"-field as soon as he starts typing in the company's adress. And no - even if he tries to remove this information, most apps will make sure that it stays.
 

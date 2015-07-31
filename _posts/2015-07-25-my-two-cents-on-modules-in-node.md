@@ -7,7 +7,7 @@ First off: I'm relatively new to node (started developing with it a few months a
 
 I started developing a secret project a while ago and I've immediately figured out that this is one of the major things which prevents me from bringing some logic in the structure of the project. And that's exactly why I'm here now and want to talk about this.
 
-{% include image.liquid file="history-guy-modules.png" %}
+{% include image.html file="history-guy-modules.png" %}
 
 When talking about open source projects, I'm usually very concerned about doing stuff the way how it was intended by it's creators (since that mostly leads to clean code and a faster development process). I'm also very happy about the fact that there are many people out there who are contributing to the openness and trying to make the standards easy to understand, so that new users like me can quickly get started without needing to think about their own structure.
 

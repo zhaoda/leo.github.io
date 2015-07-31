@@ -5,7 +5,7 @@ updated: 2015-07-11 12:15
 
 I already wanted to write something like this a while ago, however I wasn't sure yet. But a recent tweet of Joel Califa finally caught my attention:
 
-{% include tweet.liquid user="notdetails" id="617104311890251776" alt="Exhausted with Designer News" %}
+{% include tweet.html user="notdetails" id="617104311890251776" alt="Exhausted with Designer News" %}
 
 I'm not entirely sure about how he exactly meant this. He either looks at this from an "the entries and comments aren't useful anymore" or a "just too much"-perspective, I don't know. But that doesn't even matter here, since it was useful anyway (because it triggered me to write about the latter).
 

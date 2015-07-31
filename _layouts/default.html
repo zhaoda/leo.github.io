@@ -6,12 +6,12 @@ layout: compress
 <html>
 
 	<head>
-		{% include head.liquid %}
+		{% include head.html %}
 	</head>
 
 	<body>
 
-		{% include header.liquid %}
+		{% include header.html %}
 
 		<main>
 			{{ content | replace: '&#8617;', '&#8617;&#xfe0e;' }}
