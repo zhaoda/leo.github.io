@@ -1,9 +1,9 @@
 <aside class="logo">
 
-	{% if page.url == "/index.html" || page.url == "/" %}
-		{% assign link = "/about" %}
+	{% if page.url == '/index.html' || page.url == '/' %}
+		{% assign link = '/about' %}
 	{% else %}
-		{% assign link = "/" %}
+		{% assign link = '/' %}
 	{% endif %}
 
 	<a href="{{ link }}">{{ site.title }}</a>
