@@ -90,9 +90,9 @@ span[data-note] {
 	}
 
 	@media (min-width: 768px) {
-		max-width: 400px;
-		padding-bottom: 20px;
 		right: 40px;
+		padding-bottom: 20px;
+		max-width: 400px;
 		left: auto;
 		bottom: 40px;
 		border-radius: 8px;
@@ -337,11 +337,6 @@ section {
 				color: #000;
 				display: inline-block;
 				box-sizing: border-box;
-
-				&:visited {
-					color: #888888;
-				}
-
 			}
 
 			@media (min-width: 992px) {
@@ -351,10 +346,6 @@ section {
 
 					&:hover {
 						border-color: #000;
-					}
-
-					&:visited:hover {
-						border-color: #c2c2c2;
 					}
 
 				}
