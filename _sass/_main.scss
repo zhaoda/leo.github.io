@@ -85,8 +85,8 @@ span[data-note] {
 	-webkit-transition-property: transform;
 	-webkit-transition-duration: 0.6s;
 	-webkit-transition-timing-function: ease;
-	transform: translateY( 100% );
-	-webkit-transform: translateY( 100% );
+	transform: translateY( calc( 100% + 8px ) );
+	-webkit-transform: translateY( calc( 100% + 8px ) );
 	font-size: 14px;
 	line-height: 1.7em;
 
