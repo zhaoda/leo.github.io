@@ -1,6 +1,7 @@
 ---
 title: Eigene Smartphones Entwicklen
 updated: 2013-09-14 14:05
+lang: de
 ---
 
 Vor ein paar Stunden kam ich durch einen Link auf eine ganz besondere Seite: [Phonebloks][1]. Diese repräsentiert ein ausgefuchstes Projekt eines Niederländers, welcher Smartphones entwickeln möchte, die um einiges länger als normale Handys halten und zudem in Sachen Hardware auch durch den Nutzer selbst anpassbar sind.

@@ -1,6 +1,7 @@
 ---
 title: CSS 3 Media Querys
 updated: 2013-03-30 19:16
+lang: de
 ---
 
 Vor einigen Tagen hatte ich einen Artikel über Responsive Design auf meinem persönlichen Blog veröffentlicht. Darin wurde kurz aber knackig erklärt, wie man denn am besten sein eigenes Design erstellt, was dann auch auf mobilen Endgeräten sauber angezeigt wird, sodass man die Inhalte aufnehmen kann.

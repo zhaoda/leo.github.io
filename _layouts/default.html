@@ -3,7 +3,7 @@ layout: compress
 ---
 
 <!DOCTYPE html>
-<html>
+<html class="{% if page.lang %}{{ page.lang }}{% else %}en{% endif %}">
 
 	<head>
 		{% include head.html %}

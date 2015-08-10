@@ -1,6 +1,7 @@
 ---
 title: FrewHost Wechselt Den Betreiber
 updated: 2013-09-23 06:41
+lang: de
 ---
 
 Mittlerweile ist schon mehr als ein Jahr vergangen, seitdem mein Projekt "FrewHost" offiziell ins Netz ging. Über diese Zeit hatte ich natürlich die Möglichkeit Erfahrungen zu sammeln, und diese ins Projekt einzubinden.

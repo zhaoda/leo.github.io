@@ -1,6 +1,7 @@
 ---
 title: E-Mails Mittels Linux-Shell Versenden
 updated: 2013-10-20 22:35
+lang: de
 ---
 
 Immer öfters kommt es vor, dass ich bestimmte Log-Datein von meinem Server laden muss. Um das ganze etwas zu vereinfachen hab' ich mich mal nach einer Möglichkeit umgeschaut, die Logs direkt an meine E-Mail-Adresse zu senden.

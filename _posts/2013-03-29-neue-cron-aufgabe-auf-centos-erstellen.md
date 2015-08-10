@@ -1,6 +1,7 @@
 ---
 title: Neue Cron-Aufgabe Auf CentOS Erstellen
 updated: 2013-03-29 19:43
+lang: de
 ---
 
 Vor wenigen Tagen bekam ich einen Auftrag bezüglich der Erstellung einer Seite für ein Unternehmen. Um hierfür eine reibungslose Entwicklungsumgebung erschaffen zu können, hab ich mir einen kleinen V-Server aufgesetzt. Auf diesem läuft mein - für kleinere Operationen - persönlicher Favorit Linux/Unix.

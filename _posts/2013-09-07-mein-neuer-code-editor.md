@@ -1,6 +1,7 @@
 ---
 title: Mein Neuer Code-Editor
 updated: 2013-09-07 19:31
+lang: de
 ---
 
 Lange ist es her, seitdem ich zum letzen mal den Editor gewechselt habe, mit dem ich entwickle, doch nun ist es mal wieder so weit. Ich habe endlich eine praktische und dazu noch kostenlose Alternative zu meinem bisherigen Code-Editor [Notepad++][1] gefunden.

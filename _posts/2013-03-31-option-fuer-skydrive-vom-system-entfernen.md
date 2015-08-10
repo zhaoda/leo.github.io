@@ -1,6 +1,7 @@
 ---
 title: Nervige SkyDrive-Option Vom Rechtsklickmenü Entfernen
 updated: 2015-07-26 14:28
+lang: de
 ---
 
 Vor kurzem hatte ich ein wenig Freizeit, und wusste nicht, was ich denn machen solle. Nach einigen Minuten intensiver Überlegung entschied ich mich, die Demo-Version von Office 365 herunterzuladen, um mir - vor dem Kauf - durch die eventuellen Features der Software eine eigene Meinung bilden zu können.

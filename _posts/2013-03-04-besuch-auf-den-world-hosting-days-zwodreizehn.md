@@ -1,6 +1,7 @@
 ---
 title: Besuch Auf Den World Hosting Days 2013
 updated: 2013-03-04 18:21
+lang: de
 ---
 
 Zunächst einmal vielen herzlichen Dank an [Max Brown][1], der mir diese Aktion überhaupt möglich gemacht hat. Ich werde mit zwei Kollegen auf den WordHostingDays 2013 im Europa-Park Rust (nähe Frankfurt) sein dürfen.

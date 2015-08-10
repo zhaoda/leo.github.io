@@ -1,6 +1,7 @@
 ---
 title: Kurzer Überblick Zur WWDC 2013
 updated: 2013-06-10 22:24
+lang: de
 ---
 
 Heute Abend war es mal wieder soweit: Apple hielt eine offizielle Konferenz ab, auf der neue Entwicklungen und Zukunftspläne vorgestellt wurden. Ich konnte das ganze zum Glück live an meinem Rechner mitverfolgen. Einige neue Dinge wurden vorgestellt, darunter das neue [iOS 7][1] sowie der neue Mac Pro.
