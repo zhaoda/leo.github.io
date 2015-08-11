@@ -31,4 +31,4 @@ Also thanks to Leigh McCulloch, whose [answer][2] caught my attention on Stack O
 
 [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/text-size-adjust
 [2]: http://stackoverflow.com/a/27311443
-[3]: { link here }
+[3]: https://github.com/leo/leo.github.io/commit/028e0956bb582b5619d632f343f3f15618cc9910
