@@ -29,7 +29,9 @@ layout: null
 			<id>{{ post.url | prepend: site.url }}</id>
 			<updated>{{ post.updated | date_to_xmlschema }}</updated>
 			<published>{{ post.path | truncate: 20 | replace: "...", "" | replace: "_posts/", "" }}T10:00:00+02:00</published>
-			<content type="html" xml:lang="en"><![CDATA[{{ post.content | replace: "&#8617;", "&#8617;&#xfe0e;" }}]]></content>
+			<content type="html" xml:lang="en">
+				<![CDATA[{{ post.content | replace: "&#8617;", "&#8617;&#xfe0e;" | replace: "data-lang", "lang" }}]]>
+			</content>
 		</entry>
 
 	{% endfor %}
