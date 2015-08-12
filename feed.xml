@@ -13,8 +13,8 @@ layout: null
 	<icon>/assets/favicon.png</icon>
 
 	<author>
-		<name>{{ site.author }}</name>
-		<email>{{ site.email | xml_escape }}</email>
+		<name>Leonard Lamprecht</name>
+		<email>lamprechtleonard@gmail.com</email>
 		<uri>https://twitter.com/{{ site.twitter }}</uri>
 	</author>
 
