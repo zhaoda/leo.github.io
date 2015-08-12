@@ -1,5 +1,5 @@
 ---
-title: Fixing your site's zooming-problem on mobile devices
+title: Fixing Your Site's Zooming-Problem on Mobile Devices
 updated: 2015-08-11 22:25
 ---
 
