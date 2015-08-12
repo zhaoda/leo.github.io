@@ -9,7 +9,7 @@ layout: null
 	<subtitle>{{ site.description | xml_escape }}</subtitle>
 	<link rel="alternate" href="{{ site.url }}/" />
 	<link rel="self" href="{{ site.url | append: "/feed.xml" }}" />
-	<rights>Copyright @ {{ site.time | date: '%Y' }}, {{ site.author }}</rights>
+	<rights>Copyright @ {{ site.time | date: '%Y' }}, Leonard Lamprecht</rights>
 	<icon>/assets/favicon.png</icon>
 
 	<author>
