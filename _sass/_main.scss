@@ -97,6 +97,7 @@ span[data-note] {
 	-webkit-transform: translateY( calc( 100% + 8px ) );
 	font-size: 14px;
 	line-height: 1.7em;
+	width: 100%;
 
 	&.shown {
 		transform: translateY( 0 );
