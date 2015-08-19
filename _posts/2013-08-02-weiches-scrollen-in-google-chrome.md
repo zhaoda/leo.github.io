@@ -1,5 +1,5 @@
 ---
-title: Weiches Scrollen in Google Chrome
+title: Weiches Scrollen in Google Chrome aktivieren
 updated: 2013-08-02 15:31
 lang: de
 ---
