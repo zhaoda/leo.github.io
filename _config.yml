@@ -9,7 +9,7 @@ markdown: kramdown
 kramdown:
     input: GFM
 sass:
-    style: :compressed
+    style: :expanded
 
 #Other
 permalink: /notes/:title
