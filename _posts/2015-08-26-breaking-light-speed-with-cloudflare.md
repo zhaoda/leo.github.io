@@ -59,11 +59,11 @@ But before I forget it: If you want to take advantage of those improvements, you
 
 Now I finally found a neat way to combine the DNS-resolution of my domain name with all the other stuff that makes my site even faster and easier to manage in the development process.
 
-[^1]: Okay, there are a few thing I would change on the UI, but that's not that important now.
+[^1]: Okay, there are a few things I would change on the UI, but that's not that important right now.
 
 [^2]: Do we still say that word? I don't fucking now. Please tell me if we don't, okay? OKAY?! 😭
 
-[^3]: Usually, the domain registrar provides you with a list of available name server which you could use for your domain. But since I registered the domain directly at the official domain registry (nic.im), I didn't benefit from those. I don't now why, but it looks like they thought they simply don't need to provide their customers with such things. Or maybe it's just normal for domain registries.
+[^3]: Usually, the domain registrar provides you with a list of available name-servers which you can use for your domain. But since I registered the domain directly at the official domain registry (nic.im), I didn't benefit from those. I don't now why, but it looks like they thought they simply don't need to provide their customers with such things. Or maybe it's just normal for domain registries.
 
 [1]: http://frewhost.net
 [2]: https://github.com/penibelst/jekyll-compress-html
