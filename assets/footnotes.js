@@ -1,1 +1,112 @@
-"use strict";function _classCallCheck(e,t){if(!(e instanceof t))throw new TypeError("Cannot call a class as a function")}var _createClass=function(){function e(e,t){for(var n=0;n<t.length;n++){var o=t[n];o.enumerable=o.enumerable||!1,o.configurable=!0,"value"in o&&(o.writable=!0),Object.defineProperty(e,o.key,o)}}return function(t,n,o){return n&&e(t.prototype,n),o&&e(t,o),t}}(),Footnotes=function(){function e(){_classCallCheck(this,e);var t=document.getElementsByClassName("footnotes");if(t.length){for(var n=t[0].firstChild.childNodes,o=n.length;o--;){var s=n[o],a=s.getAttribute("id").slice(-1),i=document.getElementById("fnref:"+a);s.getElementsByClassName("reversefootnote")[0].remove(),this.spawnPlacebo(s,i,a)}this.popup=document.querySelector(".note")}}return _createClass(e,[{key:"openNote",value:function(e){var t=this.popup,n=t.classList.contains("shown");if(n){var o=document.querySelector("[data-note].open");this.closeNote(o)}document.body.addEventListener("click",function(){this.closeNote(e)}.bind(this)),t.innerHTML=e.getAttribute("data-note"),setTimeout(function(){t.className=t.className+" shown",t.addEventListener("click",function(e){e.stopPropagation()})},100),e.setAttribute("class","open")}},{key:"closeNote",value:function(e){this.popup.setAttribute("class","note"),e.removeAttribute("class"),document.body.onclick=null}},{key:"spawnPlacebo",value:function(e,t,n){var o=document.createElement("span"),s=e.firstChild.innerHTML,a=this;o.setAttribute("data-note",s),o.innerHTML=n,o.addEventListener("click",function(e){this.classList.contains("open")?a.closeNote(this):a.openNote(this,e),e.stopPropagation()}),t.parentNode.replaceChild(o,t)}}]),e}();new Footnotes;
+'use strict';
+
+/*
+	Compiled by Babel.js
+*/
+
+var _createClass = (function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ('value' in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; })();
+
+function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError('Cannot call a class as a function'); } }
+
+var Footnotes = (function () {
+
+	function Footnotes() {
+
+		_classCallCheck(this, Footnotes);
+
+		var tag = document.getElementsByClassName('footnotes');
+
+		if (!tag.length) {
+			return;
+		}
+
+		var footnotes = tag[0].children[0].childNodes;
+
+		for (var i = footnotes.length; i--;) {
+
+			if (i % 2 !== 0) {
+
+				var note = footnotes[i],
+				    id = note.getAttribute('id').slice(-1),
+				    origin = document.getElementById('fnref:' + id);
+
+				note.getElementsByClassName('reversefootnote')[0].remove();
+
+				this.spawnPlacebo(note, origin, id);
+			}
+		}
+
+		this.popup = document.querySelector('.note');
+	}
+
+	_createClass(Footnotes, [{
+		key: 'openNote',
+		value: function openNote(me, event) {
+
+			var popup = this.popup,
+			    status = popup.classList.contains('shown');
+
+			if (status) {
+
+				var current = document.querySelector('[data-note].open');
+				this.closeNote(current);
+			}
+
+			document.body.addEventListener('click', (function (event) {
+				this.closeNote(me);
+			}).bind(this));
+
+			popup.innerHTML = me.getAttribute('data-note');
+
+			setTimeout(function () {
+
+				popup.className = popup.className + ' shown';
+
+				popup.addEventListener('click', function (event) {
+					event.stopPropagation();
+				});
+			}, 100);
+
+			me.setAttribute('class', 'open');
+		}
+	}, {
+		key: 'closeNote',
+		value: function closeNote(ele) {
+
+			this.popup.setAttribute('class', 'note');
+			ele.removeAttribute('class');
+
+			document.body.onclick = null;
+		}
+	}, {
+		key: 'spawnPlacebo',
+		value: function spawnPlacebo(note, ref, id) {
+
+			var placebo = document.createElement('span'),
+			    content = note.children[0].innerHTML,
+			    it = this;
+
+			placebo.setAttribute('data-note', content);
+			placebo.innerHTML = id;
+
+			placebo.addEventListener('click', function (event) {
+
+				if (this.classList.contains('open')) {
+
+					it.closeNote(this);
+				} else {
+
+					it.openNote(this, event);
+				}
+
+				event.stopPropagation();
+			});
+
+			ref.parentNode.replaceChild(placebo, ref);
+		}
+	}]);
+
+	return Footnotes;
+})();
+
+new Footnotes();

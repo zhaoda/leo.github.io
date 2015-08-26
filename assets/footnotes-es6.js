@@ -8,17 +8,21 @@ class Footnotes {
 			return;
 		}
 
-		var footnotes = tag[0].firstChild.childNodes;
+		var footnotes = tag[0].children[0].childNodes;
 
 		for( var i = footnotes.length; i--; ) {
 
-			var note = footnotes[i],
-				id = note.getAttribute( 'id' ).slice( -1 ),
-				origin = document.getElementById( 'fnref:' + id );
+			if( i % 2 !== 0 ) {
 
-			note.getElementsByClassName( 'reversefootnote' )[0].remove();
+				var note = footnotes[i],
+					id = note.getAttribute( 'id' ).slice( -1 ),
+					origin = document.getElementById( 'fnref:' + id );
 
-			this.spawnPlacebo( note, origin, id );
+				note.getElementsByClassName( 'reversefootnote' )[0].remove();
+
+				this.spawnPlacebo( note, origin, id );
+
+			}
 
 		}
 
@@ -70,7 +74,7 @@ class Footnotes {
 	spawnPlacebo( note, ref, id ) {
 
 		var placebo = document.createElement( 'span' ),
-			content = note.firstChild.innerHTML,
+			content = note.children[0].innerHTML,
 			it = this;
 
 		placebo.setAttribute( 'data-note', content );
