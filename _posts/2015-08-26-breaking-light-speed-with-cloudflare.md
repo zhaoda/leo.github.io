@@ -1,6 +1,6 @@
 ---
 title: Breaking GitHub Pages' speed limitations with CloudFlare
-updated: 2015-08-26 17:49
+updated: 2015-08-27 01:27
 ---
 
 The last time I came in contact with CloudFlare, I was managing root servers for my own tiny [hosting-provider][1] and it looked like a really neat way to get rid of those damn DDoS attacks my service was getting back then. Unfortunately, their system wasn't as functional and good-looking as it is today[^1], so I struggled pretty hard with actually configuring it and getting everything running.
@@ -63,7 +63,7 @@ Now I finally found a neat way to combine the DNS-resolution of my domain name w
 
 **EDIT:** After a few hours with CloudFlare's analytics tool, I found out about another great advantage over Google's way of doing it: I'm finally able to track how many people are reading my posts through RSS. ♥️
 
-That's only the case because the visits are being recorded on the server-side instead of on the client-side, like it was before.
+That's only the case because the visits are being recorded on the backend instead of on the frontend, like it was before.
 
 [^1]: Okay, there are a few things I would change on the UI, but that's not that important right now.
 
