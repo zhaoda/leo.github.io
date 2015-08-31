@@ -15,7 +15,7 @@ layout: null
 	<author>
 		<name>Leonard Lamprecht</name>
 		<email>lamprechtleonard@gmail.com</email>
-		<uri>https://twitter.com/{{ site.twitter }}</uri>
+		<uri>https://twitter.com/lmprht</uri>
 	</author>
 
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
@@ -24,9 +24,12 @@ layout: null
 
 	{% for post in site.posts limit:40 %}
 
+		{% assign absolute = 'img src="' | append: site.url %}
+
 		{% assign content = post.content | replace: "&#8617;", "&#8617;&#xfe0e;" %}
 		{% assign content = content | replace: "data-lang", "lang" %}
 		{% assign content = content | replace: "<mark>", "<b>" | replace: "</mark>", "</b>" %}
+		{% assign content = content | replace: 'img src="', absolute %}
 
 		<entry>
 			<title type="html">{{ post.title | xml_escape }}</title>
