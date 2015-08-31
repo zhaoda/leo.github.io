@@ -1,6 +1,6 @@
 ---
 title: How to provide a clean Safari Reader experience
-updated: 2015-08-31 14:13
+updated: 2015-08-31 14:46
 ---
 
 Since the beginning, Apple has always been a company that strives to provide a minimalistic feeling for both developers and users when it comes to interfaces. This desire was expressed another time when they introduced Safari's Reader functionality with version 5, back in 2010. I'm talking about this little thing:
@@ -24,5 +24,7 @@ Sadly, Apple didn't introduce a custom attribute for hiding such elements within
 3. Now the only thing you need to do is make them visible again on the site. And this can simply be done by setting those elements' *display* property back to "block" (or a different value, depending on how you want the element to behave).
 
 From now on, your visitors are able to enjoy a clean reading experience without unnecessary clutter. If you want to try this out, just click the button in the address-bar that looks like a few lines of text grouped together while viewing this post.
+
+If you look close, you'll notice that the web view contains a date and a divider line, but the Reader view doesn't.
 
 [1]: http://www.w3schools.com/tags/att_global_hidden.asp
