@@ -1,24 +1,26 @@
-## My site &nbsp; [![Build Status](https://travis-ci.org/leo/leo.github.io.svg?branch=master)][1]
+## This [![Build Status](https://travis-ci.org/leo/leo.github.io.svg?branch=master)][1]
 
-If you want, you can call this my homepage. This is where I put many of my recent thoughts and works. The reason why I published the site here on GitHub is because they provide a really convenient to deploy.
+... is where I settle down to write down my thoughts. Sometimes it's a helpful tip, sometimes an idea and sometimes just bullshit. There's only one thing I can guarantee: Before you become bored, the hell will freeze over.
 
-You're completely free to use parts of my code for one of your projects, as long as you don’t hold me liable. But you can also just contribute to it by creating issues or fixing bugs if you find one.
+So I guess there's only one thing left to clarify. And that's why the fuck I'm hosting my site here, in a repository on a collaborating platform for code: Because it's so convenient. I don't need to worry about deployment and at the sime time, people can access all of my stuff without detours.
 
-## Build locally
+## Caught a bug?
 
-As you might want to commit something to my site, you should of course be able to build the project locally with Jekyll. So here are some quick steps to accomplish this:
+If you want to fix an issue or just try building the site locally for fun, start like this:
 
-1. Clone the repo
+1. Clone the repository
 2. Install Jekyll and another gem: `gem install jekyll && gem install github-pages`
-3. `cd` into the folder that contains the repo
-4. Compile the contents and start a server: `jekyll serve --watch`
+3. `cd` into the respository folder
+4. Run Jekyll: `jekyll serve --watch`
 
-**Important:** Executing the above comments might take a while because it's downloading a huge amount of files. But if you get something like "You don't have write permissions ..." back, just try the commands with `sudo` on the beginning.
+Executing those commands might take a while. But if you get something like "You don't have write permissions", you know that an error occured. In this case, just try executing the commands again. But this time, with `sudo` at the beginning (executes the commands as root user).
 
-## Forking
+## "Are you a magician?"
 
-You're completely free to fork this repository and use it as starting-point for your own Jekyll-site! Just remember to change all custom variables within ```config.yml``` before continuing to use the setup. 😸
+Who knows. But that's definitely not the reason why all the assets on the site are minfied, although Jekyll isn't able to provide me such a task. It's [CloudFlare][2] who does that.
 
-I would also recommend you to make some changes to the theme, of course (if not to completely change it). So that people aren't confused when visiting your site.
+If you want to read more about how this exactly works, just read [this][3].
 
 [1]: https://travis-ci.org/leo/leo.github.io
+[2]: http://cloudflare.com
+[3]: http://leo.im/notes/breaking-light-speed-with-cloudflare/
