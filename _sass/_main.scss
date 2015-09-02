@@ -307,28 +307,18 @@ article {
 			}
 
 			a {
-				display: block;
-				width: 30px;
-				height: 30px;
+				display: inline-block;
 				border: 0;
-				text-indent: -999999px;
-				background-position: center center;
-				background-size: auto 100%;
 
 				&:focus {
 					outline: none;
 				}
 
-				$social: twitter github dribbble feed mail;
+			}
 
-				@each $format in $social {
-
-					&[href*="#{$format}"] {
-						background-image: url( /assets/icons/#{$format}.svg );
-					}
-
-				}
-
+			svg {
+				height: 30px;
+				width: 30px;
 			}
 
 		}
