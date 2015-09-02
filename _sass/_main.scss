@@ -94,7 +94,7 @@ span[data-note] {
 	transition-property: transform;
 	transition-duration: 0.6s;
 	transition-timing-function: ease;
-	-webkit-transition-property: transform;
+	-webkit-transition-property: -webkit-transform;
 	-webkit-transition-duration: 0.6s;
 	-webkit-transition-timing-function: ease;
 	transform: translateY( calc( 100% + 8px ) );
@@ -117,7 +117,7 @@ span[data-note] {
 		bottom: 40px;
 		border-radius: 8px;
 		transition-property: opacity, transform;
-		-webkit-transition-property: opacity, transform;
+		-webkit-transition-property: opacity, -webkit-transform;
 		transition-duration: 0.3s;
 		-webkit-transition-duration: 0.3s;
 		opacity: 0;
@@ -167,7 +167,7 @@ span[data-note] {
 
 		a {
 			transition: transform 0.4s;
-			-webkit-transition: transform 0.4s;
+			-webkit-transition: -webkit-transform 0.4s;
 			border: 5px solid #fff;
 			box-sizing: border-box;
 			line-height: 75px;
