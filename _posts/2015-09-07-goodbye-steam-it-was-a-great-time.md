@@ -23,6 +23,6 @@ Of course I could go on and on like this, but I want to draw a final stroke. To 
 
 And if I write you about that, you don't even respond. You neither seem to have a support team behind you, nor are you able make use of all the native advantages my system has to offer.
 
-No, it's not like you think. NO! ... Okay. YES!! You're right. I found someone else who makes me laugh now: The Mac App Store. Titles like Bioshock Infinite, the original Bioshock, Hitman, Tomb Raider, Max Payne 3 and many indie ones like Transistor or Bastion just make me feel like home again. You probably haven't noticed it yet, but if game is great and the creators care about their fans, it will be launched there too. And if you ask me, that's the only kind of game we actually need.
+No, it's not like you think. NO! ... Okay. YES!! You're right. I found someone else who makes me laugh now: The Mac App Store. Titles like Bioshock Infinite, the original Bioshock, Hitman, Tomb Raider, Max Payne 3 and many indie ones like Transistor or Bastion just make me feel like home again. You probably haven't noticed it yet, but if a game is great and the creators care about their fans, it will be launched there too. And if you ask me, that's the only kind of game we actually need.
 
 All in all, that's exactly what I need to feel home again. So there it is: Goodbye Steam, we might meet again when I get a Windows computer yet again. *Yeah, sure. Of course... No, seriously. Who knows... Nah, the thought of me buying one of those again is just to funny...*
