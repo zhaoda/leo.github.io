@@ -3,7 +3,7 @@ title: Goodbye, Steam. It was a great time, but now you're just being a bitch.
 updated: 2015-09-07 22:59
 ---
 
-It was in 2012 when we first met. I was just a kid from a small town who wanted to try out what my cool classmates told me about. In the school, they always raved about how much you have to offer and how less someone actually had to give you in exchange.
+It was in 2012 when we first met. I was just a kid from a small town who wanted to try out what my cool classmates told me about. In the school, they always raved about how much you had to offer and how less someone actually had to give you in exchange.
 
 Obviously, I wanted to be cool to. So after a few months, I couldn't resist your attraction anymore. I wanted to know more about you and your dangerous side which my parents and the people on the TV told me about. They said you're not only a good way to kill time, but also drug which already made many of my kind addictive.
 
