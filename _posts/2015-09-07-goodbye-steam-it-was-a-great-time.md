@@ -7,9 +7,7 @@ It was in 2012 when we first met. I was just a kid from a small town who wanted 
 
 Obviously, I wanted to be cool to. So after a few months, I couldn't resist your attraction anymore. I wanted to know more about you and your dangerous side which my parents and the people on the TV told me about. They said you're not only a good way to kill time, but also drug which already made many of my kind addictive.
 
-They told me dramatized tales about people who failed to make their dream come true because they simply spent too much time wandering through the dreams of others, who already made them come true in form of an electronical product which at the same time actually finances their life.
-
-But of course, I didn't care about what those people said. Probably like everyone else at my age. So I tried it. I tried to get to you, as fast as I could, but still with a slight bit of reverence in my mind.
+They told me dramatized tales about people who failed to make their dream come true because they simply spent too much time wandering through the dreams of others, who already made them come true in form of an electronical product which at the same time actually finances their life. But of course, I didn't care about what those people said. Probably like everyone else at my age. So I tried it. I tried to get to you, as fast as I could, but still with a slight bit of reverence in my mind.
 
 At first, it wasn't that hard. Since we had just met, you didn't knew much about what I would go through just for you, so you were pretty easy to please. You knew that if you would be friendly to me, I would think that I've just won a new friend. But as many thing in live, it wasn't like it seemed to me.
 
