@@ -17,7 +17,7 @@ Executing those commands might take a while. But if you get something like "You 
 
 ## "Are you a magician?"
 
-Who knows. But that's definitely not the reason why all the assets on the site are minfied, although Jekyll isn't able to provide me such a task. It's [CloudFlare][2] who does that.
+Who knows. But that's definitely not the reason why all the assets on the site are minfied, although Jekyll isn't able to provide me with such a service. It's [CloudFlare][2] who does that.
 
 If you want to read more about how this exactly works, just read [this][3].
 
