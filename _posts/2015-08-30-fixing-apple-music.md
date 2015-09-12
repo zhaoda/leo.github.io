@@ -1,6 +1,6 @@
 ---
 title: Fixing Apple Music
-updated: 2015-08-30 17:32
+date: 2015-08-30 17:32
 ---
 
 When Apple Music came out with iOS 8.4 a few weeks ago, I immediately knew that I wanted to switch over from Spotify. Although their service has always been stable and cheap, Apple's way of doing it brings more advantages in terms of integration and music management.

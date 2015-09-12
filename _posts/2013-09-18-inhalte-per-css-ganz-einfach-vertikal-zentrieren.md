@@ -1,6 +1,6 @@
 ---
 title: Inhalte per CSS Ganz Einfach Vertikal Zentrieren
-updated: 2013-09-18 18:58
+date: 2013-09-18 18:58
 lang: de
 ---
 

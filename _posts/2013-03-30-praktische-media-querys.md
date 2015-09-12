@@ -1,6 +1,6 @@
 ---
 title: CSS 3 Media Querys
-updated: 2013-03-30 19:16
+date: 2013-03-30 19:16
 lang: de
 ---
 

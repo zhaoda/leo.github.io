@@ -1,6 +1,6 @@
 ---
 title: Bye School, Hello Life!
-updated: 2015-07-25 13:29
+date: 2015-07-25 13:29
 ---
 
 Today's the day: I've graduated from school.

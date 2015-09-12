@@ -1,6 +1,6 @@
 ---
 title: Mein Neuer Code-Editor
-updated: 2013-09-07 19:31
+date: 2013-09-07 19:31
 lang: de
 ---
 

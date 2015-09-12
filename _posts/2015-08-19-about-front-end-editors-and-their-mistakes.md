@@ -1,6 +1,6 @@
 ---
 title: About Front-End Editors and Their Mistakes
-updated: 2015-08-19 14:41
+date: 2015-08-19 14:41
 ---
 
 If you're on a social network and following some of the most known people in the industry, you can't use excuse that you don't already know of this topic. Every month someone new comes around with a supposedly better solution for allowing clients to easily edit their websites by themselves, without needing to contact an agency and pay hundreds of euros just to make a small change on the design of the site.

@@ -1,6 +1,6 @@
 ---
 title: Cookies Ganz Einfach per Javascript Verwalten
-updated: 2013-03-01 23:16
+date: 2013-03-01 23:16
 lang: de
 ---
 

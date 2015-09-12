@@ -1,6 +1,6 @@
 ---
 title: Kurzer Überblick Zur WWDC 2013
-updated: 2013-06-10 22:24
+date: 2013-06-10 22:24
 lang: de
 ---
 

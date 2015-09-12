@@ -1,6 +1,6 @@
 ---
 title: Der Beste RSS-Reader Aller Zeiten
-updated: 2013-08-03 15:25
+date: 2013-08-03 15:25
 lang: de
 ---
 

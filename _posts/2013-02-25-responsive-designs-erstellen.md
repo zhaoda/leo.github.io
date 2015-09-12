@@ -1,6 +1,6 @@
 ---
 title: Responsive-Designs Erstellen
-updated: 2013-02-25 21:11
+date: 2013-02-25 21:11
 lang: de
 ---
 

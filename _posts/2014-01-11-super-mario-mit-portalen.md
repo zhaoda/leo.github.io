@@ -1,6 +1,6 @@
 ---
 title: Super Mario Mit Portalen
-updated: 2014-01-11 12:43
+date: 2014-01-11 12:43
 lang: de
 ---
 

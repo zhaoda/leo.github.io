@@ -1,8 +1,13 @@
 # General
-title: Leonard Lamprecht
+name: Leonard Lamprecht
 description: A teenagers view on web development and intuitive UI design.
 url: http://leo.im
 google_verify: epFgX0s_0RM3CdjwFcsewfXzPov2g8s9ZBOLyaIUH-o
+
+author:
+    name: Leonard Lamprecht
+    email: lamprechtleonard@gmail.com
+    uri: http://leo.im/about/
 
 # Build
 markdown: kramdown
@@ -18,11 +23,7 @@ include: [ 'robots.txt' ]
 exclude: [ 'LICENSE', 'README.md', 'CNAME', 'vendor', 'Gemfile' ]
 gems:
     - jekyll-sitemap
-    
-compress_html:
-    clippings: all
-    ingore:
-        envs: [ 'test' ]
+    - jekyll-feed
 
 # Self explaining
 defaults:

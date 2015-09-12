@@ -1,6 +1,6 @@
 ---
 title: FrewHost Wechselt Den Betreiber
-updated: 2013-09-23 06:41
+date: 2013-09-23 06:41
 lang: de
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Realtime Code-Editor in 160 Bytes
-updated: 2013-12-12 20:38
+date: 2013-12-12 20:38
 lang: de
 ---
 

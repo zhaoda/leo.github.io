@@ -1,6 +1,6 @@
 ---
 title: My Problem with Sites like Designer News
-updated: 2015-07-11 12:15
+date: 2015-07-11 12:15
 ---
 
 I already wanted to write something like this a while ago, however I wasn't sure yet. But a recent tweet of Joel Califa finally caught my attention:

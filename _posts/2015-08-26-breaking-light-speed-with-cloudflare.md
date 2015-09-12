@@ -1,6 +1,6 @@
 ---
 title: Breaking GitHub Pages' speed limitations with CloudFlare
-updated: 2015-08-27 01:27
+date: 2015-08-27 01:27
 ---
 
 The last time I came in contact with CloudFlare, I was managing root servers for my own tiny [hosting-provider][1] and it looked like a really neat way to get rid of those damn DDoS attacks my service was getting back then. Unfortunately, their system wasn't as functional and good-looking as it is today[^1], so I struggled pretty hard with actually configuring it and getting everything running.

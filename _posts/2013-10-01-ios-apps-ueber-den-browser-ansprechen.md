@@ -1,6 +1,6 @@
 ---
 title: iOS-Apps über Den Browser Ansprechen
-updated: 2013-10-01 10:57
+date: 2013-10-01 10:57
 lang: de
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Eigene Smartphones Entwicklen
-updated: 2013-09-14 14:05
+date: 2013-09-14 14:05
 lang: de
 ---
 

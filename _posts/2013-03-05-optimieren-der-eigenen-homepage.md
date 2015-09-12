@@ -1,6 +1,6 @@
 ---
 title: Optimieren Der Eigenen Homepage
-updated: 2013-03-05 16:52
+date: 2013-03-05 16:52
 lang: de
 ---
 

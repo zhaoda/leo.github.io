@@ -1,6 +1,6 @@
 ---
 title: Attribut-Selektoren in CSS 3
-updated: 2013-03-02 22:00
+date: 2013-03-02 22:00
 lang: de
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Fixing Your Site's Zooming-Problem on Mobile Devices
-updated: 2015-08-11 22:25
+date: 2015-08-11 22:25
 ---
 
 In 2007, Steve Jobs introduced us to the advantages of Apple's new multitouch functionality, which was shipped with the first iPhone. I'm not sure if it was already available in Safari back then, but we definitely all not that it is now. And fuck, many of us are angry about it, right? Because it often breaks our wonderfully crafted web-layouts.

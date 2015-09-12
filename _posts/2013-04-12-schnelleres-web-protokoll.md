@@ -1,6 +1,6 @@
 ---
 title: Schnelleres Web-Protokoll
-updated: 2013-04-12 16:00
+date: 2013-04-12 16:00
 lang: de
 ---
 
