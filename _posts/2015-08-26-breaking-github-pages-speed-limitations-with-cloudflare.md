@@ -51,7 +51,7 @@ And if that wasn't enough, those scripts only have a expiration date of 2 hours.
 
 But enough with this stuff: At CloudFlare, this happens seamlessly on the server. As soon as a request comes in, the page gets served and at the same time, the web-server takes note of the client's IP address and location data by simply extracting them from the parameters which were sent with the request - no additional overhead.
 
--
+---
 
 Sounds like a great deal, huh?
 
@@ -59,7 +59,7 @@ But before I forget it: If you want to take advantage of those improvements, you
 
 Now I finally found a neat way to combine the DNS-resolution of my domain name with all the other stuff that makes my site even faster and easier to manage in the development process.
 
--
+---
 
 **EDIT:** After a few hours with CloudFlare's analytics tool, I found out about another great advantage over Google's way of doing it: I'm finally able to track how many people are reading my posts through RSS. ♥️
 

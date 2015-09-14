@@ -56,8 +56,6 @@ Now every time the user opens the mail app, it auto-completes the content of the
 
 And technically, this info isn't useful at all. I mean, if you have more than 1 single support staff, the user won't write with *Scott* each time. He might also write with *Ann* or *Jacob*, since they use the exact same address to stay in contact with customers - therefore the name is pretty useless in this context[^3].
 
----
-
 [^1]: Please don't get me wrong here. Of course they should already do what they can to make the product awesome by themselves.
 
 [^2]: And if you have more than one "Scott" in your company, just add their last name.
