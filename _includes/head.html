@@ -29,11 +29,10 @@
 
 <style>
 {% capture basic_styles %}
-	{% include basic.scss %}
+	{% include sass/basic.scss %}
 {% endcapture %}
 
 {{ basic_styles | scssify }}
 </style>
 
-<link rel="stylesheet" href="/assets/core.css">
 <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
