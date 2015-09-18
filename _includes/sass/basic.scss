@@ -152,7 +152,7 @@ span[data-note] {
 		border-radius: 75px;
 		display: inline-block;
 		text-align: center;
-		line-height: 80px;
+		line-height: 75px;
 	}
 
 	@media (min-width: 992px) {
@@ -170,9 +170,8 @@ span[data-note] {
 		a {
 			transition: transform 0.4s;
 			-webkit-transition: -webkit-transform 0.4s;
-			border: 5px solid #fff;
 			box-sizing: border-box;
-			line-height: 75px;
+			line-height: 85px;
 			height: 85px;
 			width: 85px;
 			border-radius: 85px;
