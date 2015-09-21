@@ -1,6 +1,6 @@
 ---
 title: My Two Cents on Modules in Node
-date: 2015-07-29 12:49
+date: 2015-07-25 23:02
 ---
 
 First off: I'm relatively new to node (started developing with it a few months ago). I'm not yet one of those experienced professionals in this area, so please don't take my arguments to seriously. I'm just trying to describe what bugs me about the way, how modules in node currently work and what I would change.

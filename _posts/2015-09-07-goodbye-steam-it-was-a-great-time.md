@@ -1,6 +1,6 @@
 ---
 title: Goodbye, Steam. It was a great time, but now you're just being a bitch.
-date: 2015-09-08 08:09
+date: 2015-09-07 22:59
 ---
 
 It was around 2010 when we first met. I was just a kid from a small town who wanted to try out what my cool classmates told me about. In the school, they always raved about how much you had to offer and how less someone actually had to give you in exchange.

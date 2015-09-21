@@ -1,6 +1,6 @@
 ---
 title: How to provide a clean Safari Reader experience
-date: 2015-08-31 14:46
+date: 2015-08-31 14:13
 ---
 
 Since the beginning, Apple has always been a company that strives to provide a minimalistic feeling for both developers and users when it comes to interfaces. This desire was expressed another time when they introduced Safari's Reader functionality with version 5, back in 2010. I'm talking about this little thing:
