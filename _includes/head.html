@@ -28,7 +28,13 @@
 
 <style>
 {% capture basic_styles %}
+
 	{% include sass/basic.scss %}
+
+	{% if page.content contains "endhighlight" %}
+		{% include sass/syntax.scss %}
+	{% endif %}
+
 {% endcapture %}
 
 {{ basic_styles | scssify }}

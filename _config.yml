@@ -15,7 +15,6 @@ kramdown:
     input: GFM
 sass:
     style: :expanded
-    sass_dir: _includes/sass
 
 #Other
 permalink: /notes/:title
